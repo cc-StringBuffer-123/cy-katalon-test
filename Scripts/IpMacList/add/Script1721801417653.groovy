@@ -9,51 +9,50 @@ import org.openqa.selenium.WebDriver as WebDriver
 import org.openqa.selenium.WebElement as WebElement
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import groovy.json.JsonOutput as JsonOutput
+import model.PredefinedListUploadEnum as PredefinedListUploadEnum
 
-WebUI.openBrowser('https://127.0.0.1:18080/')
+WebUI.openBrowser('')
 
 WebUI.navigateToUrl('https://127.0.0.1:18080/')
 
 String uniquValue = UUID.randomUUID().toString().replace('-', '').substring(0, 6)
 
-WebUI.setText(findTestObject('Object Repository/IpMacList/Page_StrongGate/input__t'), 'test333')
+WebUI.setText(findTestObject('IpMacList/Page_StrongGate/input__t'), 'test333')
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_StrongGate/button_'))
+WebUI.click(findTestObject('IpMacList/Page_StrongGate/button_'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_StrongGate/div_StrongGate'))
+WebUI.click(findTestObject('IpMacList/Page_StrongGate/div_StrongGate'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_StrongGate/div_ID'))
+WebUI.click(findTestObject('IpMacList/Page_StrongGate/div_ID'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_StrongGate/div_ID'))
+WebUI.click(findTestObject('IpMacList/Page_StrongGate/div_ID'))
 
-WebUI.setText(findTestObject('Object Repository/IpMacList/Page_StrongGate/input_ID_email'), 'test@test.com')
+WebUI.setText(findTestObject('IpMacList/Page_StrongGate/input_ID_email'), 'test@test.com')
 
-WebUI.setEncryptedText(findTestObject('Object Repository/IpMacList/Page_StrongGate/input__password'), 'EedPXzAtoLmlvts/d2a2YQ==')
+WebUI.setEncryptedText(findTestObject('IpMacList/Page_StrongGate/input__password'), 'EedPXzAtoLmlvts/d2a2YQ==')
 
-WebUI.sendKeys(findTestObject('Object Repository/IpMacList/Page_StrongGate/input__password'), Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('IpMacList/Page_StrongGate/input__password'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/div_Team'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Team'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/span_Network Access'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/span_Network Access'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/li_IP Mac List'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/li_IP Mac List'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/button_Add Location IPMAC List'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/button_Add Location IPMAC List'))
 
-WebUI.setText(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/input_Name of Location IPMac List_listName'), 
-    'im-' + uniquValue)
+WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_Name of Location IPMac List_listName'), 'im-' + uniquValue)
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/span_Upload'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/span_Upload'))
 
-//WebUI.sendKeys(findTestObject(object), file)
-//WebUI.uploadFile(findTestObject('object'), file)
 String filePath = '"C:\\Users\\ChanYing\\pre-c.csv"'
 
-def selection = new StringSelection(filePath)
+StringSelection selection = new StringSelection(filePath)
 
 Toolkit.getDefaultToolkit().getSystemClipboard().setContents(selection, null)
 
-def robot = new Robot()
+Robot robot = new Robot()
 
 robot.delay(2002)
 
@@ -69,69 +68,116 @@ robot.keyPress(KeyEvent.VK_ENTER)
 
 robot.keyRelease(KeyEvent.VK_ENTER)
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/button_Append'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/button_Append'))
 
-WebUI.setText(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/input_Comments_ipAddress'), '127.0.0.1')
+WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_Comments_ipAddress'), '127.0.0.1')
 
-WebUI.setText(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/input_Comments_macAddress'), '00-00-00-00-00-00')
+WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_Comments_macAddress'), '00-00-00-00-00-00')
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/div_Select'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Select'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/div_Device exist in  016, Uplink is  , uGate'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Device exist in  016, Uplink is  , uGate'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/span_confirm'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/span_confirm'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/td_Select'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/td_Select'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/div_select_login'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_select_login'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/div_Everyone'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Everyone'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/button_confirm'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/button_confirm'))
 
-WebUI.setText(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/textarea_Select_comments'), '01')
+WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/textarea_Select_comments'), '01')
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/path'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/path'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/div_test999test.com'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_test999test.com'))
 
-WebUI.setText(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), 
-    Keys.chord(Keys.ENTER))
+WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), Keys.chord(
+        Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/div_testtest.com'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_testtest.com'))
 
-WebUI.setText(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), 
-    'test@test.com')
+WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), 'test@test.com')
 
-WebUI.sendKeys(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), 
-    Keys.chord(Keys.ENTER))
+WebUI.sendKeys(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), Keys.chord(
+        Keys.ENTER))
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/img_List owner adddel List administrator. O_8b3ded'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/img_List owner adddel List administrator. O_8b3ded'))
 
-WebUI.setText(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/input_List owner adddel List administrator._557ec0'), 
-    'test120@test.com')
+WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_List owner adddel List administrator._557ec0'), 'test120@test.com')
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/span_Save IPMac List'))
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/span_Save IPMac List'))
 
-//String listName = WebUI.getAttribute(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/input_Name of Location IPMac List_listName'), 
-//    'value')
-//
-//println('list name :' + listName)
-//
-//def rows = WebUI.findWebElements(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/list-table'), 30)
-//
-//for (int i = 0; i < rows.size(); i++) {
-//    def cells = rows.get(i).findElements(By.tagName('td'))
-//
-//    for (int j = 0; j < cells.size(); j++) {
-//        String cellText = cells.get(j).getText()
-//
-//        println((((('Row ' + (i + 1)) + ' Column ') + (j + 1)) + ': ') + cellText)
-//    }
-//}
+// get web values
+String listName = WebUI.getAttribute(findTestObject('IpMacList/Page_ZTN Team-Site/input_Name of Location IPMac List_listName'), 
+    'value')
 
-WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/button_continue'))
+WebDriver driver = DriverFactory.getWebDriver()
+
+List<WebElement> spans = driver.findElements(By.cssSelector('span.u-radio'))
+
+String selectedRadioValue = ''
+
+for (WebElement span : spans) {
+    if (span.getAttribute('class').contains('u-radio-checked')) {
+        WebElement label = span.findElement(By.xpath('following-sibling::span[@class=\'u-label\']'))
+
+        selectedRadioValue = label.getText()
+
+        break
+    }
+}
+
+WebElement table = WebUI.findWebElement(findTestObject('IpMacList/Page_ZTN Team-Site/list-table'))
+
+List<WebElement> tableRows = table.findElements(By.tagName('tr'))
+
+List<WebElement> tableData = []
+
+tableRows.each{ row ->
+        List<WebElement> cells = row.findElements(By.tagName('td'))
+
+        if (cells.size() >= 5) {
+            Map<String, String> rowData = [:]
+
+            (rowData['iPAddress']) = (cells[0]).getText()
+
+            (rowData['macAddress']) = (cells[1]).getText()
+
+            (rowData['locationUid']) = (cells[2]).getText()
+
+            (rowData['loginId']) = (cells[3]).getText()
+
+            (rowData['comments']) = (cells[4]).getText()
+
+            tableData.add(rowData)
+        }
+    }
+
+WebElement divElement = driver.findElement(By.cssSelector('div.tagDiv'))
+
+List<WebElement> spanElements = divElement.findElements(By.tagName('span'))
+
+List<WebElement> spanTexts = new ArrayList<String>()
+
+for (WebElement span : spanElements) {
+    spanTexts.add(span.getText().trim())
+}
+
+String listOwner = WebUI.getAttribute(findTestObject('IpMacList/Page_ZTN Team-Site/input_List owner adddel List administrator._557ec0'), 
+    'value')
+
+Map<String, String> formData = [('listName') : listName, ('uploadType') : PredefinedListUploadEnum.fromLabel(selectedRadioValue).value
+    , ('tableData') : tableData, ('listAdmin') : spanTexts, ('listOwner') : listOwner]
+
+String jsonOutput = JsonOutput.toJson(formData)
+
+println(jsonOutput)
+
+WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/button_continue'))

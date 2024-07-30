@@ -47,6 +47,8 @@ WebUI.click(findTestObject('Object Repository/user/list/Page_StrongGate/button_'
 
 WebUI.click(findTestObject('Object Repository/user/list/Page_StrongGate/button__1'))
 
+WebUI.delay(3)
+
 // Open a new TAB using JavaScript
 String script = 'window.open("https://auth.sogate.net:38889/", "_blank");'
 
@@ -84,6 +86,8 @@ WebUI.setEncryptedText(findTestObject('Object Repository/user/list/Page_StrongGa
 WebUI.click(findTestObject('Object Repository/user/list/Page_StrongGate/button_'))
 
 WebUI.click(findTestObject('Object Repository/user/list/Page_StrongGate/button__1'))
+
+WebUI.delay(3)
 
 WebUI.executeJavaScript(script, null)
 
