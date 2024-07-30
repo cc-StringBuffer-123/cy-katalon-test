@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "9A7A09C05B4E64DC66836A0B8A130854",
+  "keywordClasses": [
+    {
+      "name": "security.ByPassSSL",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

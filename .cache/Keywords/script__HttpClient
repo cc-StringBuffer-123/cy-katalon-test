@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "1A646D79EFE43DFE586384D0A6D32335",
+  "keywordClasses": [
+    {
+      "name": "script.HttpClient",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}

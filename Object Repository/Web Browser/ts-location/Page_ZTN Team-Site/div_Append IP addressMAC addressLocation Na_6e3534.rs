@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Append IP addressMAC addressLocation Na_6e3534</name>
+   <tag></tag>
+   <elementGuidId>132b914f-7dbd-40ba-b1dd-d5c6ce3da8bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/form/div/div[2]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>form.el-form.el-form--default.el-form--label-top > div.row > div.col-12</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Append IP addressMAC addressLocation NameLogin IdComments127.0.0.100-00-00-00-00&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>4f636a86-c39a-4d58-bb35-1a80af57bf71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12</value>
+      <webElementGuid>c7a95dda-066b-4b17-b774-541c82a6e30f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Append IP addressMAC addressLocation NameLogin IdComments127.0.0.100-00-00-00-00-00Anywhere testa79ae7@test.com 01Items: 1-0  |  Items per page: 10    1 of 0 page       </value>
+      <webElementGuid>5b75d00c-2bf9-4539-bcd1-ea243f14b9d8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]</value>
+      <webElementGuid>5e295c20-512d-4abe-b631-2c001aee2696</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/form/div/div[2]</value>
+      <webElementGuid>98600129-5893-468a-be63-268399723553</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div/div[2]</value>
+      <webElementGuid>51bd97ce-ac6d-4e6c-aa4c-c5977ec57df1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Append IP addressMAC addressLocation NameLogin IdComments127.0.0.100-00-00-00-00-00Anywhere testa79ae7@test.com 01Items: 1-0  |  Items per page: 10    1 of 0 page       ' or . = 'Append IP addressMAC addressLocation NameLogin IdComments127.0.0.100-00-00-00-00-00Anywhere testa79ae7@test.com 01Items: 1-0  |  Items per page: 10    1 of 0 page       ')]</value>
+      <webElementGuid>f72d218f-c927-4027-8e71-1de89c69b5ca</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

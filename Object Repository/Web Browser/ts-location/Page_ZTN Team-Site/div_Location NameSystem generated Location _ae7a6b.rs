@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Location NameSystem generated Location _ae7a6b</name>
+   <tag></tag>
+   <elementGuidId>0b37e35b-c908-44fa-94f9-3f9831a95102</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.card-body</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Location NameSystem generated Location uidSequence Number: The system finds the &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>37e8d204-c038-4dc0-95c6-cf1ad74bfc44</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>83b85fff-6a83-41c3-b55a-c101668830b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Location NameSystem generated Location uidSequence Number: The system finds the Location of lowest sequence number with properties that meets the logged-in device.Location Enabled:  YESThe system only evaluate Enabled location.</value>
+      <webElementGuid>f468dc06-029c-4b9d-a39d-4231350e6c4d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;card ztn-tables&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>b18cf3e7-d478-4108-9ca6-2a66667363d3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div/div</value>
+      <webElementGuid>76588506-1704-4d12-b795-25b92a0581cd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[3]/following::div[3]</value>
+      <webElementGuid>0bc3ba1f-0a45-40b9-9954-135f77dc2720</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/form/div/div</value>
+      <webElementGuid>945d7d79-3e65-4328-8a92-aba4ce23f6cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Location NameSystem generated Location uidSequence Number: The system finds the Location of lowest sequence number with properties that meets the logged-in device.Location Enabled:  YESThe system only evaluate Enabled location.' or . = 'Location NameSystem generated Location uidSequence Number: The system finds the Location of lowest sequence number with properties that meets the logged-in device.Location Enabled:  YESThe system only evaluate Enabled location.')]</value>
+      <webElementGuid>51c747db-33cc-4645-abaf-031a11d2496b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

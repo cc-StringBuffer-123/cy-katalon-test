@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Determining properties A device is dete_d1e06a</name>
+   <tag></tag>
+   <elementGuidId>6b5a508d-cbd4-4732-98fc-7d9c02df81df</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>div:nth-child(2) > .card-body</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>16169265-18e4-4c84-8c13-be2b1f568ef0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>355a4673-e0fd-4c60-a8a6-68bfb687c240</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Determining properties: A device is determined as logged-in to this Location if all of the following supplied factors are meet.Device IP addressesDevice exists within these IP Ranges. 10.0.0.1/16 Device exists in predefined Location ip/mac ListNearest Public IP      Get first public IP of your current network :---- · ----UGate Server as Location Token ServerIn case the two or more servers, the system will distribute the traffic between the servers.</value>
+      <webElementGuid>9746160f-0f99-42b5-a5d5-8f8b1b69f7d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;card ztn-tables&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>6df2f932-344b-4791-b2a9-3b93d439d2bd</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div[2]/div</value>
+      <webElementGuid>08a36f22-99fa-4410-8b63-d9598943327b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The system only evaluate Enabled location.'])[1]/following::div[2]</value>
+      <webElementGuid>024a0ff7-b112-41c9-ab07-d3b7d570dd00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YES'])[1]/following::div[4]</value>
+      <webElementGuid>4f2881af-2ca6-4ccc-8946-98db745c16e7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//form/div[2]/div</value>
+      <webElementGuid>be00ca1c-f70a-4eb3-8e83-2c4ecb8934be</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Determining properties: A device is determined as logged-in to this Location if all of the following supplied factors are meet.Device IP addressesDevice exists within these IP Ranges. 10.0.0.1/16 Device exists in predefined Location ip/mac ListNearest Public IP      Get first public IP of your current network :---- · ----UGate Server as Location Token ServerIn case the two or more servers, the system will distribute the traffic between the servers.' or . = 'Determining properties: A device is determined as logged-in to this Location if all of the following supplied factors are meet.Device IP addressesDevice exists within these IP Ranges. 10.0.0.1/16 Device exists in predefined Location ip/mac ListNearest Public IP      Get first public IP of your current network :---- · ----UGate Server as Location Token ServerIn case the two or more servers, the system will distribute the traffic between the servers.')]</value>
+      <webElementGuid>83c3329b-bad6-491a-8b9a-c4a5526d6de0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_10.0.0.116</name>
+   <tag></tag>
+   <elementGuidId>54ee8e0e-18fe-4ab5-bf0e-e8e46f0e88a8</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.tagBox > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div[2]/div/div[3]/div/div/div[2]/div/div/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;10.0.0.1/16&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>e5281743-64a3-4dcf-ad2e-7a520e91ac4a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> 10.0.0.1/16 </value>
+      <webElementGuid>8132ba97-5243-4743-b51c-6609035066ed</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;card ztn-tables&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;layer_boards mb-4&quot;]/div[@class=&quot;col-12 mb-3&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-md-9&quot;]/div[@class=&quot;tagDiv&quot;]/div[@class=&quot;remove-div&quot;]/div[@class=&quot;tagBox&quot;]/span[1]</value>
+      <webElementGuid>628bfebd-fcbe-403f-9410-68db1ca3e20e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div[2]/div/div[3]/div/div/div[2]/div/div/div/span</value>
+      <webElementGuid>1831779d-75da-44c6-85dd-1677c8bcd902</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device exists within these IP Ranges.'])[1]/following::span[1]</value>
+      <webElementGuid>a5230829-575b-4909-b92d-626b54f8cd65</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device IP addresses'])[1]/following::span[2]</value>
+      <webElementGuid>86effa37-22cb-4fca-b4fd-8669036e9da8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device exists in predefined Location ip/mac List'])[1]/preceding::span[1]</value>
+      <webElementGuid>984313e7-f16c-48f9-be0c-4cd8a2afad33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nearest Public IP'])[1]/preceding::span[4]</value>
+      <webElementGuid>98f8cfc1-eaf4-4a96-bb20-d7016772ce45</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div[2]/div/div/div/span</value>
+      <webElementGuid>3be250a7-63a1-4514-81fd-402940563676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = ' 10.0.0.1/16 ' or . = ' 10.0.0.1/16 ')]</value>
+      <webElementGuid>098df361-38e8-4509-a167-dbd16813dcc8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

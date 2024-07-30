@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Group NameDescriptionTypeSynced Group G_6fdd75</name>
+   <tag></tag>
+   <elementGuidId>05fd7ede-f925-4b7a-a221-476e193e2546</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.page-content > div:nth-child(2) > div</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>b7a8fb00-c658-4905-9527-1a0a8e4f2b0f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>col-12</value>
+      <webElementGuid>d6b68ac2-557d-4595-a643-28df0cfee95a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Group NameDescriptionTypeSynced Group Group Enable?YESThe system only evaluate Enabled GroupGroup Members can contains either group members or individual membersAdd Group as members:Group NameMembersRuleTypeEnableNo Data  Add Group Add user as member:EmailNameStateAdd ByCreated onNo Data  Add Member Then constrained by this Criteria Ruleset:Create Rule(s)for all selected group members for additional filtering and constraints.Execute Action if ALL RULES are trueTrue if  ANY  of these are true  (inclusive)  OR  . . . AND if   ALL  of these are true  (Requirement)  AND  . . . AND if   NONE  of these are true  (exclusion)  OR  . . . StatisticsUnknownOnlineActiveWaitApproveLoginReadyRejectedExpiredSuspended00000000   Show all Group Members Security SettingsAssign groups or users  to have Role (and its containing permissions) on members of this group. ParentBound:  Team AdminSelect Role Team AdminCan see and edit user-self's info, or the  info of group and its users where the user-self is a group-admin. Group Ownergroup owner desc Group Admingroup admin desc Tech Admintech admin desc Tech SupportCan edit all Network and Secure Access configuration and policies. Can see all users and groups. Member Adminmember admin desc Member Supportmember support descSelect and Confirm test  Add Role   cancel   Add New Group </value>
+      <webElementGuid>6c350f73-dee3-46d6-a128-7dc8e6136307</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]</value>
+      <webElementGuid>c02ecc0e-fd23-4580-9bec-cd87e250444c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div</value>
+      <webElementGuid>9a9e01d3-bbd1-41a2-87e4-d9d40de0ff25</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[3]/following::div[2]</value>
+      <webElementGuid>1c8a5537-e26a-4e33-8c15-52ede6dfefa8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div[2]/div</value>
+      <webElementGuid>7483e3ed-b5dd-40a8-b174-6aed0fdca959</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Group NameDescriptionTypeSynced Group Group Enable?YESThe system only evaluate Enabled GroupGroup Members can contains either group members or individual membersAdd Group as members:Group NameMembersRuleTypeEnableNo Data  Add Group Add user as member:EmailNameStateAdd ByCreated onNo Data  Add Member Then constrained by this Criteria Ruleset:Create Rule(s)for all selected group members for additional filtering and constraints.Execute Action if ALL RULES are trueTrue if  ANY  of these are true  (inclusive)  OR  . . . AND if   ALL  of these are true  (Requirement)  AND  . . . AND if   NONE  of these are true  (exclusion)  OR  . . . StatisticsUnknownOnlineActiveWaitApproveLoginReadyRejectedExpiredSuspended00000000   Show all Group Members Security SettingsAssign groups or users  to have Role (and its containing permissions) on members of this group. ParentBound:  Team AdminSelect Role Team AdminCan see and edit user-self&quot; , &quot;'&quot; , &quot;s info, or the  info of group and its users where the user-self is a group-admin. Group Ownergroup owner desc Group Admingroup admin desc Tech Admintech admin desc Tech SupportCan edit all Network and Secure Access configuration and policies. Can see all users and groups. Member Adminmember admin desc Member Supportmember support descSelect and Confirm test  Add Role   cancel   Add New Group &quot;) or . = concat(&quot;Group NameDescriptionTypeSynced Group Group Enable?YESThe system only evaluate Enabled GroupGroup Members can contains either group members or individual membersAdd Group as members:Group NameMembersRuleTypeEnableNo Data  Add Group Add user as member:EmailNameStateAdd ByCreated onNo Data  Add Member Then constrained by this Criteria Ruleset:Create Rule(s)for all selected group members for additional filtering and constraints.Execute Action if ALL RULES are trueTrue if  ANY  of these are true  (inclusive)  OR  . . . AND if   ALL  of these are true  (Requirement)  AND  . . . AND if   NONE  of these are true  (exclusion)  OR  . . . StatisticsUnknownOnlineActiveWaitApproveLoginReadyRejectedExpiredSuspended00000000   Show all Group Members Security SettingsAssign groups or users  to have Role (and its containing permissions) on members of this group. ParentBound:  Team AdminSelect Role Team AdminCan see and edit user-self&quot; , &quot;'&quot; , &quot;s info, or the  info of group and its users where the user-self is a group-admin. Group Ownergroup owner desc Group Admingroup admin desc Tech Admintech admin desc Tech SupportCan edit all Network and Secure Access configuration and policies. Can see all users and groups. Member Adminmember admin desc Member Supportmember support descSelect and Confirm test  Add Role   cancel   Add New Group &quot;))]</value>
+      <webElementGuid>e9c20004-198e-4af0-9175-a50c83d67709</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

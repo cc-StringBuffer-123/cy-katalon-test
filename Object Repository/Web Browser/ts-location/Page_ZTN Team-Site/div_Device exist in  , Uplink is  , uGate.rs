@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Device exist in  , Uplink is  , uGate</name>
+   <tag></tag>
+   <elementGuidId>86df6a51-0e07-4670-8c4c-26f83c39c592</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='location-table']/div/div[3]/div/div/div/table/tbody/tr/td[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>td.el-table_3_column_14.el-table__cell > div.cell</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Device exist in , Uplink is , uGate:&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f73a9a0a-78f9-4b48-8538-736b61e81fca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>97257b13-ac41-4b70-bc32-6cbe5ea5fbbc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Device exist in  , Uplink is  , uGate:  </value>
+      <webElementGuid>bb71fa46-f12e-4951-9538-81b4b072bb2b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;location-table&quot;)/div[@class=&quot;el-table__inner-wrapper&quot;]/div[@class=&quot;el-table__body-wrapper&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/div[@class=&quot;el-scrollbar__view&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_3_column_14 el-table__cell&quot;]/div[@class=&quot;cell&quot;]</value>
+      <webElementGuid>800c4589-21e5-4504-9cc8-9cd5be6e1834</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='location-table']/div/div[3]/div/div/div/table/tbody/tr/td[2]/div</value>
+      <webElementGuid>55e5b0aa-e54c-42a0-b1e1-d9db83e3a626</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Anywhere'])[1]/following::div[1]</value>
+      <webElementGuid>926810ba-af44-409c-aa07-c8f84476ef88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items: 1-0'])[2]/preceding::div[10]</value>
+      <webElementGuid>9d03872c-73d6-4205-8055-b0438b2ea178</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div/div[2]/div/div[3]/div/div/div/table/tbody/tr/td[2]/div</value>
+      <webElementGuid>adf0dea0-703f-4153-a6d7-7207cc5fa204</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Device exist in  , Uplink is  , uGate:  ' or . = 'Device exist in  , Uplink is  , uGate:  ')]</value>
+      <webElementGuid>48a5a4f6-594f-4b93-8be8-ed67df1d5145</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-id-3571-11']/div[2]/div/div[3]/div/div/div/table/tbody/tr/td[2]/div</value>
+      <webElementGuid>e2457eb6-9806-4699-9f0f-584dafc6a483</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
