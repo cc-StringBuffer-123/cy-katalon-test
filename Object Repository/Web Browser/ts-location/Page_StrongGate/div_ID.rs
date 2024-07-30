@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_ID</name>
+   <tag></tag>
+   <elementGuidId>df345f1d-abb6-493f-a58e-41adaac0ca45</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(3) > label > div.ztn-page-h300.label-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='dosignup']/div[3]/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;电子邮件地址作为您的登录ID：&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f71a9e71-fe40-4dbb-9107-8ca5cac8639e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-page-h300 label-left</value>
+      <webElementGuid>14731c90-f1bd-458e-8e82-5eeae97bc3b2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>电子邮件地址作为您的登录ID：</value>
+      <webElementGuid>8b989e37-3faf-49c5-bb0c-b9d3e919cc6e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dosignup&quot;)/div[3]/label[1]/div[@class=&quot;ztn-page-h300 label-left&quot;]</value>
+      <webElementGuid>4305dc56-73e5-4d7b-9aee-ce3932138d61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dosignup']/div[3]/label/div</value>
+      <webElementGuid>ec4f77de-7699-4206-8818-3cb8980fd05a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='用户名：'])[1]/following::div[3]</value>
+      <webElementGuid>904ca44f-62e4-4bc9-ad45-ebf268e8f648</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='新的StrongGate身份帐户'])[1]/following::div[5]</value>
+      <webElementGuid>c4ac0437-3589-4315-a21a-7b937df6e6ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='将向您的电子邮件地址发送一封带有一次性密码的电子邮件。'])[1]/preceding::div[2]</value>
+      <webElementGuid>0b71fd1d-5684-4d98-92b6-0cb84dda397b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='创建新身份帐户'])[1]/preceding::div[3]</value>
+      <webElementGuid>5de27a14-ad03-4741-9f02-8c50b314b2e4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='电子邮件地址作为您的登录ID：']/parent::*</value>
+      <webElementGuid>6e24f144-e4a4-4314-9bf7-cf6d50b846f0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/label/div</value>
+      <webElementGuid>be89961d-2e90-45a4-a0a8-9890b10a5b44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '电子邮件地址作为您的登录ID：' or . = '电子邮件地址作为您的登录ID：')]</value>
+      <webElementGuid>b07179d0-07d4-41e3-b184-d34e4294cebc</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

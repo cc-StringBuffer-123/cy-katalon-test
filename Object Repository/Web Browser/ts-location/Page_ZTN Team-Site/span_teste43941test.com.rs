@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_teste43941test.com</name>
+   <tag></tag>
+   <elementGuidId>54af23f9-5134-4e52-8909-c494ff3cf05d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.suggestions-text > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/form/div/div[3]/div[2]/div[3]/div[3]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;teste43941@test.com&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>542e04b8-2c4b-4f47-b647-87ea11183503</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>teste43941@test.com</value>
+      <webElementGuid>01c62c70-9fca-401f-ba23-35018d5432cb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12 layer_board mb-4&quot;]/div[@class=&quot;col-lg-12&quot;]/div[@class=&quot;suggestions slide-fade-leave-active slide-fade-leave-to&quot;]/div[@class=&quot;suggestions-text&quot;]/span[1]</value>
+      <webElementGuid>52ebf41c-bcd6-42d1-8b5e-f287aadb500e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/form/div/div[3]/div[2]/div[3]/div[3]/span</value>
+      <webElementGuid>01d2e72d-dbba-4914-89fe-43fc6a341918</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List Administrator can edit this list:'])[1]/following::span[1]</value>
+      <webElementGuid>a026d5e8-98cb-4b5c-be4c-6e0d1f937117</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='List owner add/del List administrator. Only team admin can change List owner.'])[1]/preceding::span[1]</value>
+      <webElementGuid>ca3c1dd6-802d-40cf-b400-bc2551f727a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[2]</value>
+      <webElementGuid>61eba00b-af60-488f-92db-b112a9d482fe</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='teste43941@test.com']/parent::*</value>
+      <webElementGuid>6fbcdd1d-b6ae-4f9e-8ef0-a08bb7e3aea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div[3]/span</value>
+      <webElementGuid>b8f9f1dc-a11f-42ee-b87b-28d825c40c57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'teste43941@test.com' or . = 'teste43941@test.com')]</value>
+      <webElementGuid>3798200f-b238-4d54-ac2c-88d017e38c01</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

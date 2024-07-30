@@ -1,0 +1,146 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_In case the two or more servers, the _32a7c0</name>
+   <tag></tag>
+   <elementGuidId>f929fb2a-d720-4fda-8242-62d59aff6aa2</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.checkbox.border-down > label.el-checkbox</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div[3]/div/div[3]/table/tr[2]/td/label</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Split Tunnel When a user device is connect to this Location, data can besend to IP segments defined in Split tunne. e.g. 10.0.0.1/16, 172.16.0.0-172.16.0.233&quot;i] >> label</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>label</value>
+      <webElementGuid>9f86e433-8f70-48ae-9a71-04970190ed17</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-checkbox</value>
+      <webElementGuid>88285b7e-c302-4d14-8afa-ff552c1f8a29</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;col-md-8&quot;]/table[@class=&quot;location-properties&quot;]/tr[2]/td[@class=&quot;checkbox border-down&quot;]/label[@class=&quot;el-checkbox&quot;]</value>
+      <webElementGuid>2a0fb30e-05d1-4662-8fb2-52c74c9d5263</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div[3]/div/div[3]/table/tr[2]/td/label</value>
+      <webElementGuid>05b725db-ea05-46ab-aeb3-58bd612cf557</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IP Ranges'])[1]/following::label[1]</value>
+      <webElementGuid>dc305794-5e0a-4140-9abc-73297056ffe1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In case the two or more servers, the system will distribute the traffic between the servers.'])[2]/following::label[2]</value>
+      <webElementGuid>5dd25b26-d6d6-49af-81ba-ab08b5a4ddef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Split Tunnel'])[1]/preceding::label[1]</value>
+      <webElementGuid>fbb408f1-92a1-40f6-a163-3479f9485ca0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::label[1]</value>
+      <webElementGuid>a6f8e662-ec3b-4947-8ee0-6f3739627e1b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td/label</value>
+      <webElementGuid>56f9cf5e-c7ef-4876-8bb1-ec4e18fe238a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div[3]/div/div[3]/table/tr/td/label</value>
+      <webElementGuid>d033602b-f5ae-4d00-99e7-36b85b91a101</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In case the two or more servers, the system will distribute the traffic between the servers.'])[2]/following::label[1]</value>
+      <webElementGuid>4cb3c665-2509-4f12-b266-bf62c258df63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UGate Server as local proxy and/or Firewall server(i):'])[1]/following::label[1]</value>
+      <webElementGuid>d79bfc68-9a9b-4426-9409-2b4bc91c18a6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IP Ranges'])[1]/preceding::label[1]</value>
+      <webElementGuid>e5481f73-32a3-4b8f-9aa5-51331e3db9c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Split Tunnel'])[1]/preceding::label[2]</value>
+      <webElementGuid>2aa84552-29f8-43cb-a54f-2de2953b15b1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/label</value>
+      <webElementGuid>123b354d-c299-48e9-9017-b40340c7b6a3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

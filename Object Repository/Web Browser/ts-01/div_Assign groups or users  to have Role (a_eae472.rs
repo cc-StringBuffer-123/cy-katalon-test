@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Assign groups or users  to have Role (a_eae472</name>
+   <tag></tag>
+   <elementGuidId>df52fdc4-5f57-40e4-aec6-774fa3e4f77f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-collapse-content-7494']/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-collapse-item__content > div.card-body</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:label=&quot;Security Settings&quot;i >> div >> internal:has-text=&quot;Assign groups or users to have Role (and its containing permissions) on members &quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e63afe3b-d0dc-49f9-835b-74ce27f10b2d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>card-body</value>
+      <webElementGuid>3da96665-4a30-4cbb-9696-3185a7ba90d1</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Assign groups or users  to have Role (and its containing permissions) on members of this group. ParentBound:  Team AdminSelect Role Team AdminCan see and edit user-self's info, or the  info of group and its users where the user-self is a group-admin. Group Ownergroup owner desc Group Admingroup admin desc Tech Admintech admin desc Tech SupportCan edit all Network and Secure Access configuration and policies. Can see all users and groups. Member Adminmember admin desc Member Supportmember support descSelect and Confirm   Add Role </value>
+      <webElementGuid>abb21ab9-5cfa-4a60-9a41-10b20c406cf2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-collapse-content-7494&quot;)/div[@class=&quot;el-collapse-item__content&quot;]/div[@class=&quot;card-body&quot;]</value>
+      <webElementGuid>c5995b76-d1f4-4c8e-8b0e-4c48377802a1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-collapse-content-7494']/div/div</value>
+      <webElementGuid>225de90b-0994-4bd6-a04f-0e86248b3961</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Security Settings'])[1]/following::div[3]</value>
+      <webElementGuid>e524e812-fdaa-489f-b624-84260b594310</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div/div/div/div</value>
+      <webElementGuid>8aff465b-b9e6-42d8-a26e-10eaca67d78a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = concat(&quot;Assign groups or users  to have Role (and its containing permissions) on members of this group. ParentBound:  Team AdminSelect Role Team AdminCan see and edit user-self&quot; , &quot;'&quot; , &quot;s info, or the  info of group and its users where the user-self is a group-admin. Group Ownergroup owner desc Group Admingroup admin desc Tech Admintech admin desc Tech SupportCan edit all Network and Secure Access configuration and policies. Can see all users and groups. Member Adminmember admin desc Member Supportmember support descSelect and Confirm   Add Role &quot;) or . = concat(&quot;Assign groups or users  to have Role (and its containing permissions) on members of this group. ParentBound:  Team AdminSelect Role Team AdminCan see and edit user-self&quot; , &quot;'&quot; , &quot;s info, or the  info of group and its users where the user-self is a group-admin. Group Ownergroup owner desc Group Admingroup admin desc Tech Admintech admin desc Tech SupportCan edit all Network and Secure Access configuration and policies. Can see all users and groups. Member Adminmember admin desc Member Supportmember support descSelect and Confirm   Add Role &quot;))]</value>
+      <webElementGuid>8e1fddb7-cbae-472f-bef6-f8bf99166203</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

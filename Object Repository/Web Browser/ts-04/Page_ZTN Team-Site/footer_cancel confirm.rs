@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>footer_cancel confirm</name>
+   <tag></tag>
+   <elementGuidId>54d365ae-a738-4bb7-95d3-425aad271bd3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/form/div/div[6]/div/div/footer</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=dialog >> internal:text=&quot;cancel confirm&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>footer</value>
+      <webElementGuid>d9752799-c4d2-4759-b5be-cebaa9881e8d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-dialog__footer</value>
+      <webElementGuid>cb864ab0-c7c1-4529-9009-11ced26bc8ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  cancel  confirm </value>
+      <webElementGuid>ac586bb0-46a2-4f8e-a1b8-ec03e7151506</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;el-overlay&quot;]/div[@class=&quot;el-overlay-dialog&quot;]/div[@class=&quot;el-dialog is-align-center el-dialog--center ztn-dialog&quot;]/footer[@class=&quot;el-dialog__footer&quot;]</value>
+      <webElementGuid>f034eb64-7486-443b-9aca-90c5cb31e347</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/form/div/div[6]/div/div/footer</value>
+      <webElementGuid>c4515c59-055b-4e4e-9a00-26fbbbdd5b31</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items per page:'])[3]/following::footer[1]</value>
+      <webElementGuid>ef42e7a8-6beb-4faa-a5a6-8e6b6d4d6f5b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items: 1-0'])[3]/following::footer[1]</value>
+      <webElementGuid>5497a86f-8b2e-446c-9922-2131c3077a53</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/div/div/footer</value>
+      <webElementGuid>2f239881-78b0-4611-bfc1-1a21f772944d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//footer[(text() = '  cancel  confirm ' or . = '  cancel  confirm ')]</value>
+      <webElementGuid>0cad5b6f-2461-47dd-90fc-0395a3f6670f</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

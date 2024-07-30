@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_IP Ranges_input</name>
+   <tag></tag>
+   <elementGuidId>44449bc0-7d62-4272-86ce-276617441743</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#locationIpRangeList > input.input</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='locationIpRangeList']/input</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;IP Ranges These IP Ranges can be used by the Access Rules of Network Access Policy to control whether a user device can access these IP Ranges. e.g. 10.0.0.1/16,
+172.16.0.0-172.16.0.233&quot;i] >> internal:attr=[placeholder=&quot;e.g. 10.0.0.1/16,
+172.16.0.0-172.16.0.233&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>df7e7434-4cd9-46aa-8085-f099aec7d1e4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>e.g. 10.0.0.1/16,
+172.16.0.0-172.16.0.233</value>
+      <webElementGuid>051b9edd-c9ac-439c-b4ab-1e17fd2da09e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>3313ed83-c4e9-4560-97f6-cb0cbd2d2f0a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;locationIpRangeList&quot;)/input[@class=&quot;input&quot;]</value>
+      <webElementGuid>82206ffb-2250-41c7-a5e9-beb366953dc4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='locationIpRangeList']/input</value>
+      <webElementGuid>0f70c70a-f289-4ffd-9c4c-d41bb9505e3f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/input</value>
+      <webElementGuid>f9c6123c-b9f7-469d-8f6a-7cc65b1da7a2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@placeholder = 'e.g. 10.0.0.1/16,
+172.16.0.0-172.16.0.233']</value>
+      <webElementGuid>7375c6a2-3bfc-4a4d-8db4-31d911d03594</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

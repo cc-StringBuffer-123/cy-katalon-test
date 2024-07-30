@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_127.0.0.1</name>
+   <tag></tag>
+   <elementGuidId>b3b2e0ff-2369-4119-9528-6a4d20bfe9b6</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.uplinkIp_show_refresh > span</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div[2]/div/div[6]/div/div/div[2]/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;127.0.0.1&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>9154b8b4-462a-49b6-a7ff-b99f09bcd4d7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>127.0.0.1</value>
+      <webElementGuid>1141be59-e1fa-4e14-9e04-156d2723bb98</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;card ztn-tables&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;col-12 mb-4&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;condition_style&quot;]/div[@class=&quot;uplinkIp_show_refresh&quot;]/span[1]</value>
+      <webElementGuid>828bf726-9270-4b56-9b84-b8c40cd83a2d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/form/div[2]/div/div[6]/div/div/div[2]/span</value>
+      <webElementGuid>f90a0f73-0a52-4791-8dec-6885a03bbbab</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Get first public IP of your current network :'])[1]/following::span[1]</value>
+      <webElementGuid>6b0e2fc5-40cf-4f1b-b706-325b951a94d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Nearest Public IP'])[1]/following::span[2]</value>
+      <webElementGuid>e047a014-ec4f-4cae-9623-6db0485855e6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='UGate Server as Location Token Server'])[1]/preceding::span[1]</value>
+      <webElementGuid>4994d69b-b27f-489d-8e54-66f3c0b43946</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='In case the two or more servers, the system will distribute the traffic between the servers.'])[1]/preceding::span[1]</value>
+      <webElementGuid>a29fddc7-29cc-4b74-a36f-84270e52b8a1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='127.0.0.1']/parent::*</value>
+      <webElementGuid>646d0f41-7c72-4b4f-996f-25f3d5935803</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/span</value>
+      <webElementGuid>dc40e6ae-8229-451a-8c0f-c897f32ac61c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '127.0.0.1' or . = '127.0.0.1')]</value>
+      <webElementGuid>43d4b276-1e48-4907-b63a-88d73b09eee5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
