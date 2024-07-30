@@ -10,9 +10,9 @@ import org.openqa.selenium.WebElement as WebElement
 import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
-WebUI.openBrowser('')
+WebUI.openBrowser('https://127.0.0.1:18080/')
 
-WebUI.navigateToUrl('https://127.0.0.1:18080/')
+//WebUI.navigateToUrl('https://127.0.0.1:18080/')
 
 String uniquValue = UUID.randomUUID().toString().replace('-', '').substring(0, 6)
 
