@@ -17,9 +17,7 @@ import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
 import internal.GlobalVariable as GlobalVariable
 import org.openqa.selenium.Keys as Keys
 
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://www.google.com.hk/?hl=cn')
+WebUI.openBrowser('https://www.google.com.hk/?hl=cn')
 
 WebUI.setText(findTestObject('Object Repository/test/Page_Google/textarea__q'), 'baidu')
 
