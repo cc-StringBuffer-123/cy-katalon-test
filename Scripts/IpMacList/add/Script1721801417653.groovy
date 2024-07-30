@@ -45,10 +45,8 @@ WebUI.setText(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/inp
 
 WebUI.click(findTestObject('Object Repository/IpMacList/Page_ZTN Team-Site/span_Upload'))
 
-// 如果有文本框，就可使用upload file或send keys进行文件上传
 //WebUI.sendKeys(findTestObject(object), file)
 //WebUI.uploadFile(findTestObject('object'), file)
-// 模拟键盘上传
 String filePath = '"C:\\Users\\ChanYing\\pre-c.csv"'
 
 def selection = new StringSelection(filePath)
