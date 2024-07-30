@@ -6,12 +6,16 @@
    <elementGuidId>bae5f03b-545f-41e0-8e06-4bb330db7981</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//input[@id='listName']</value>
+         <key>BASIC</key>
+         <value>//*[@type = 'text' and @placeholder = 'Enter Name of Predefined IP/Mac List Name' and @id = 'listName']</value>
       </entry>
       <entry>
          <key>CSS</key>
          <value>#listName</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//input[@id='listName']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>2ad70d8a-9fc0-4546-8b70-be808857f31a</webElementGuid>
+      <webElementGuid>0578c367-3cf7-4e6b-b8b6-908054a04541</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-input__inner</value>
-      <webElementGuid>3bbffebd-bdd4-468f-9b9d-d605159dc202</webElementGuid>
+      <webElementGuid>6172936b-5637-4fdb-abb2-e0ebf565dcc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +49,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>99aa8c81-862c-455e-a224-a22837f4e80d</webElementGuid>
+      <webElementGuid>ade84300-2a77-44eb-adde-225cdcdd9963</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +57,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>bb1eff96-41be-4052-ad97-8040ed868a3f</webElementGuid>
+      <webElementGuid>27fd7998-0873-4a11-b109-aa57d4d4d453</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +65,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>3dff003a-7e2f-48fd-a1cd-0a87cc45b8ff</webElementGuid>
+      <webElementGuid>cb7cd2cd-c529-4d68-80aa-4854d7d0f259</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -69,7 +73,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Enter Name of Predefined IP/Mac List Name</value>
-      <webElementGuid>ac049ff0-5a6e-4615-bc1b-e3efc564e194</webElementGuid>
+      <webElementGuid>44bc8a97-86f8-4499-a5d9-d4c6e75eb76f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +81,7 @@
       <name>id</name>
       <type>Main</type>
       <value>listName</value>
-      <webElementGuid>2375b06c-c886-4855-8c3f-a04d71f02890</webElementGuid>
+      <webElementGuid>751c6662-fe90-466e-8ff0-00510226bb09</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +89,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;listName&quot;)</value>
-      <webElementGuid>cb5bb265-404f-4f0d-a53d-ebfd3c837a40</webElementGuid>
+      <webElementGuid>2c380da7-0920-44fa-bdf2-77579be0712f</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +97,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='listName']</value>
-      <webElementGuid>4046b4d6-9819-41d2-a0dc-56802bba213b</webElementGuid>
+      <webElementGuid>d1163a2d-1be8-4552-8b55-e54aa35c48ba</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +105,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/form/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>e8221753-514b-410e-b6d6-ef442dc05a2a</webElementGuid>
+      <webElementGuid>9a320eee-02c1-4143-b83c-5ed67839bbe8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/input</value>
-      <webElementGuid>182d1a0e-0fab-4c4b-84e7-bc2708ad31ae</webElementGuid>
+      <webElementGuid>c57be0ec-f664-4e0a-bd3d-eb9146290d9e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +121,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Enter Name of Predefined IP/Mac List Name' and @id = 'listName']</value>
-      <webElementGuid>7df87330-5cb6-49a0-b2a7-8da89f6206a8</webElementGuid>
+      <webElementGuid>82f98688-7b42-4f9d-9e9b-7e1c2c279206</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
