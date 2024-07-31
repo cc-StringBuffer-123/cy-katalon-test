@@ -15,6 +15,7 @@ class WebData {
 	/**
 	 * Refresh browser
 	 */
+	
 	@Keyword
 	def refreshBrowser() {
 		KeywordUtil.logInfo("Refreshing")
