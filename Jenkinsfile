@@ -1,38 +1,27 @@
 pipeline {
     agent any
+
     environment {
-        KATALON_CMD = 'katalon -noSplash -runMode=console -projectPath="cy-katalon-test.prj" -retry=0 -testSuitePath="Test Suites/ipMacListAdd" -executionProfile="default" -browserType="Chrome"'
+        KATALON_CMD = "C:/Users/ChanYing/Desktop/Katalon_Studio_Engine_Windows_64-9.6.0"
     }
+
     stages {
         stage('Checkout') {
             steps {
-                git url: 'git@github.com:cc-StringBuffer-123/cy-katalon-test.git', credentialsId: 'ed'
+                git 'https://github.com/username/repository.git'
             }
         }
-        stage('Install Katalon') {
+        stage('Run Katalon Test Suite') {
             steps {
                 script {
-                    def katalonVersion = '9.5.0'
-                    def katalonDir = "/opt/katalonstudio"
-                    sh """
-                        wget https://github.com/katalon-studio/katalon-studio/releases/download/v${katalonVersion}/Katalon_Studio_Linux_64-${katalonVersion}.tar.gz
-                        tar -xvzf Katalon_Studio_Linux_64-${katalonVersion}.tar.gz -C /opt
-                        ln -s /opt/Katalon_Studio_Linux_64-${katalonVersion} ${katalonDir}
-                    """
+                    def katalonCmd = "${KATALON_CMD} -noSplash -runMode=console -projectPath=\"${WORKSPACE}/cy-katalon-test.prj\" -retry=0 -testSuitePath=\"Test Suites/ipMacListAdd\" -executionProfile=\"default\" -browserType=\"Chrome\""
+                    if (isUnix()) {
+                        sh katalonCmd
+                    } else {
+                        bat katalonCmd
+                    }
                 }
             }
-        }
-        stage('Run Katalon Tests') {
-            steps {
-                script {
-                    sh "${env.KATALON_CMD}"
-                }
-            }
-        }
-    }
-    post {
-        always {
-            archiveArtifacts artifacts: '**/Reports/**'
         }
     }
 }
