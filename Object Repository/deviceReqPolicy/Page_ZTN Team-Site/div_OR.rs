@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_OR</name>
+   <tag></tag>
+   <elementGuidId>62b1323e-c307-4a31-b0b6-9b2d381f8d5a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.ztn-page-t150</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='inclusive']/div[4]/div[3]/div/button/span/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#inclusive >> internal:role=button[name=&quot;OR . . .&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f099b342-9160-45a5-adc9-e3f21258108d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-page-t150</value>
+      <webElementGuid>b97cd5fb-30e2-4da7-99d6-a5eeef198982</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  OR  . . . </value>
+      <webElementGuid>d785dc20-ace2-4b91-b38e-f320a87f3d82</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;inclusive&quot;)/div[4]/div[@class=&quot;tree-data&quot;]/div[1]/button[@class=&quot;el-button el-button--small constraint&quot;]/span[1]/div[@class=&quot;ztn-page-t150&quot;]</value>
+      <webElementGuid>d71412f0-197e-4fb9-8eb6-ed9077c4fb46</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='inclusive']/div[4]/div[3]/div/button/span/div</value>
+      <webElementGuid>8e70ed0d-36d3-4ac9-8ba6-ef8aafb6feaa</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(inclusive)'])[1]/following::div[6]</value>
+      <webElementGuid>d6d6bc01-f6be-4402-acd0-2285a3acfe9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ANY'])[1]/following::div[6]</value>
+      <webElementGuid>51a36f54-332a-4b44-8f0f-a440bf4eb092</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/div</value>
+      <webElementGuid>7b221394-1db2-4ff3-a7d9-71dfedc83698</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  OR  . . . ' or . = '  OR  . . . ')]</value>
+      <webElementGuid>909cdf16-3d69-4ee1-8d33-439479a8d15a</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

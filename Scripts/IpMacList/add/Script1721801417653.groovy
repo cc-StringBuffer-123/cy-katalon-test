@@ -1,20 +1,27 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import java.awt.Robot as Robot
-import java.awt.Toolkit as Toolkit
-import java.awt.datatransfer.StringSelection as StringSelection
-import java.awt.event.KeyEvent as KeyEvent
-import org.openqa.selenium.By as By
-import org.openqa.selenium.Keys as Keys
-import org.openqa.selenium.WebDriver as WebDriver
-import org.openqa.selenium.WebElement as WebElement
-import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+
+import java.awt.Robot
+import java.awt.Toolkit
+import java.awt.datatransfer.StringSelection
+import java.awt.event.KeyEvent
+
+import org.openqa.selenium.By
+import org.openqa.selenium.Keys
+import org.openqa.selenium.WebDriver
+import org.openqa.selenium.WebElement
+
+import com.kms.katalon.core.webui.driver.DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import groovy.json.JsonOutput as JsonOutput
-import model.PredefinedListUploadEnum as PredefinedListUploadEnum
 
-WebUI.openBrowser('')
+import groovy.json.JsonOutput
+import model.PredefinedListUploadEnum
+import model.WebData
 
-WebUI.navigateToUrl('https://127.0.0.1:18080/')
+//WebUI.openBrowser('')
+
+//WebUI.navigateToUrl('https://127.0.0.1:18080/')
+
+WebUI.openBrowser('https://127.0.0.1:18080/')
 
 String uniquValue = UUID.randomUUID().toString().replace('-', '').substring(0, 6)
 
@@ -134,9 +141,13 @@ for (WebElement span : spans) {
     }
 }
 
-WebElement table = WebUI.findWebElement(findTestObject('IpMacList/Page_ZTN Team-Site/list-table'))
+WebData wt = new WebData()
 
-List<WebElement> tableRows = table.findElements(By.tagName('tr'))
+List<WebElement> tableRows = wt.getHtmlTableRows(findTestObject('IpMacList/Page_ZTN Team-Site/list-table'))
+
+//WebElement table = WebUI.findWebElement(findTestObject('IpMacList/Page_ZTN Team-Site/list-table'))
+
+//List<WebElement> tableRows = table.findElements(By.tagName('tr'))
 
 List<WebElement> tableData = []
 

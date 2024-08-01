@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_</name>
+   <tag></tag>
+   <elementGuidId>3c540383-4de7-4219-9778-bfe0c46d9943</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#constraint > div:nth-of-type(4) > div.tree-data > div > button.el-button.el-button--small.constraint > span > div.ztn-page-t150 > div.constraint-side</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='constraint']/div[4]/div[3]/div/button/span/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#constraint >> internal:role=button[name=&quot;AND . . .&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>2ee7a753-1db7-4240-841e-2a94e69eb3d5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>constraint-side</value>
+      <webElementGuid>d8af375b-6eb5-49a9-8ebb-488bbe79248d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value> . . . </value>
+      <webElementGuid>8a6c04dc-bea6-4081-a766-a52f44883ecd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;constraint&quot;)/div[4]/div[@class=&quot;tree-data&quot;]/div[1]/button[@class=&quot;el-button el-button--small constraint&quot;]/span[1]/div[@class=&quot;ztn-page-t150&quot;]/div[@class=&quot;constraint-side&quot;]</value>
+      <webElementGuid>6dfdcdd0-e2bb-478c-8e98-e7e21978c4c1</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='constraint']/div[4]/div[3]/div/button/span/div/div</value>
+      <webElementGuid>5aff1013-8dc5-4664-b68f-004ceef20862</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Requirement)'])[1]/following::div[7]</value>
+      <webElementGuid>eb026fff-125a-4dcb-b3e9-1f0c36998d77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NONE'])[1]/preceding::div[4]</value>
+      <webElementGuid>905a3b0b-9973-40ff-93c2-b5ae004d955e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div[3]/div/button/span/div/div</value>
+      <webElementGuid>75e2f1f1-6724-4c39-9a50-29b899912bdf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = ' . . . ' or . = ' . . . ')]</value>
+      <webElementGuid>6a82c18a-e0f1-4cfb-96a8-73762abc185e</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

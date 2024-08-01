@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Group</name>
+   <tag></tag>
+   <elementGuidId>3abf11ab-1c6a-4b6d-9f94-6004fe359212</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ztn-page-t150</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='groupDialog']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Group&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>c50f17ec-46d0-4af8-aeec-375829495554</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-page-t150</value>
+      <webElementGuid>6d0a866e-27b3-4d29-b146-bbe1f69afc01</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Add Group </value>
+      <webElementGuid>08920c50-8e37-4318-a3a4-77c506cde37a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;groupDialog&quot;)/span[1]/span[@class=&quot;ztn-page-t150&quot;]</value>
+      <webElementGuid>c6a7183b-ff6f-457c-83cd-84c3f8a67c5c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='groupDialog']/span/span</value>
+      <webElementGuid>40cd6105-4966-45d1-abfe-9a8caa8b2c19</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Rule(s)'])[1]/preceding::span[1]</value>
+      <webElementGuid>a74af438-590f-48c8-b447-b9f6331030d2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='for all selected group members for additional filtering and constraints.'])[1]/preceding::span[2]</value>
+      <webElementGuid>78c48aaf-9e4d-4ac9-aebb-2349e92c7023</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button/span/span</value>
+      <webElementGuid>24d83bf5-6ba9-4b20-aba5-ea6fcd6eeccf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  Add Group ' or . = '  Add Group ')]</value>
+      <webElementGuid>b1083121-d298-426b-a120-52ca9ada1472</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

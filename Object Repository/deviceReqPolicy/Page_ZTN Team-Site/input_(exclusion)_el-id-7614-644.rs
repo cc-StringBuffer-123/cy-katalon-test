@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Name of Location IPMac List_listName</name>
+   <name>input_(exclusion)_el-id-7614-644</name>
    <tag></tag>
-   <elementGuidId>bae5f03b-545f-41e0-8e06-4bb330db7981</elementGuidId>
-   <imagePath></imagePath>
+   <elementGuidId>6b1d2768-7c38-49a9-ab7c-253b049188d2</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#listName</value>
+         <value>#el-id-7614-644</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='listName']</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'text' and @placeholder = 'Enter Name of Predefined IP/Mac List Name' and @id = 'listName']</value>
+         <value>//input[@id='el-id-7614-644']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Enter Name of Predefined IP/Mac List Name&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;Select&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -38,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1233a438-99dd-4f55-8cd3-2b6a81c9851b</webElementGuid>
+      <webElementGuid>ceae89c1-7031-4a52-b8dd-090d65e3bc2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -46,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-input__inner</value>
-      <webElementGuid>3a5a9998-d1d6-4202-8fc7-cd7a60976630</webElementGuid>
+      <webElementGuid>afc3c492-b019-41b8-8766-a99cc9ccdb47</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -54,7 +45,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>71a18233-b74c-48a8-ab16-e1355cb674b6</webElementGuid>
+      <webElementGuid>f2520361-9360-4a77-a945-d71828a6dbc9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -62,7 +53,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>23ca82d1-f799-4ee1-a792-35edba22fa4d</webElementGuid>
+      <webElementGuid>f0754ab9-7b72-48b9-9870-a473055f88e9</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -70,62 +61,62 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>cab20f47-ecc7-4a00-b26e-2830cffae9dc</webElementGuid>
+      <webElementGuid>e60cb3f7-8e65-41e1-a9ff-408af4eefd0e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>Enter Name of Predefined IP/Mac List Name</value>
-      <webElementGuid>83bb645e-77a5-4a0d-afd8-308ae62b3e42</webElementGuid>
+      <value>Select</value>
+      <webElementGuid>75b846c6-ac26-496d-9466-68f5097cc48d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>listName</value>
-      <webElementGuid>18cbd89b-a713-4a5c-a3ae-4ec475e50a07</webElementGuid>
+      <value>el-id-7614-644</value>
+      <webElementGuid>5bce4877-c6e7-490d-82f1-1b19e7762d8b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;listName&quot;)</value>
-      <webElementGuid>11067554-87a6-4330-b3d5-22ca0105f33b</webElementGuid>
+      <value>id(&quot;el-id-7614-644&quot;)</value>
+      <webElementGuid>a4d449f2-fc90-4803-911a-bcbc69c66548</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='listName']</value>
-      <webElementGuid>5c0f0b97-dce2-4a17-8d86-429b901073b7</webElementGuid>
+      <value>//input[@id='el-id-7614-644']</value>
+      <webElementGuid>908c2c5f-e99b-41cb-bd7f-d2170e78a3ed</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/form/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>108b9579-042e-4fab-9b1d-91796c14ee51</webElementGuid>
+      <value>//div[@id='exclusion']/div[4]/div[3]/table/tbody/tr/td/div/div/div/input</value>
+      <webElementGuid>5b2d12c4-e584-4a8a-9db8-2eeb992cb421</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/input</value>
-      <webElementGuid>fe8e0d7a-932b-417d-9cb7-54bba4b1eebb</webElementGuid>
+      <value>//div[4]/div[4]/div[3]/table/tbody/tr/td/div/div/div/input</value>
+      <webElementGuid>2e646288-0f7f-4f98-b533-6fccd13f07a6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Enter Name of Predefined IP/Mac List Name' and @id = 'listName']</value>
-      <webElementGuid>36aaf27a-49c6-4ae8-9673-c117b528fba2</webElementGuid>
+      <value>//input[@type = 'text' and @placeholder = 'Select' and @id = 'el-id-7614-644']</value>
+      <webElementGuid>29874125-210b-49f4-8baa-b17f9a168855</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

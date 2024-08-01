@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_GRP-009Team Admin AND  . . .  OR</name>
+   <tag></tag>
+   <elementGuidId>24d1a6b0-b51e-41d8-bdbf-21b066a3ac1d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#exclusion > div:nth-of-type(4) > div.tree-data</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='exclusion']/div[4]/div[3]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;GRP-009Team Admin AND . . . OR . . .&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3bd25e8e-86c2-499c-8e15-571eeddff1a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>tree-data</value>
+      <webElementGuid>a4f3d70b-c932-489b-a516-c055a7f0164b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>GRP-009Team Admin  AND  . . .   OR  . . . </value>
+      <webElementGuid>854265bc-ff66-4aef-8e6b-7d48a060cfd8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;exclusion&quot;)/div[4]/div[@class=&quot;tree-data&quot;]</value>
+      <webElementGuid>85dba2b4-1ae5-42b9-9a38-7813a6935b91</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='exclusion']/div[4]/div[3]</value>
+      <webElementGuid>ea8ba0ae-fde7-40a1-b459-7e519606db0f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(exclusion)'])[1]/following::div[4]</value>
+      <webElementGuid>f4465bb3-5617-4c8e-b359-0036763cf2d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='NONE'])[1]/following::div[4]</value>
+      <webElementGuid>aa45bce7-9fcd-4588-91d9-d82ded1036fd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div[3]</value>
+      <webElementGuid>8c182a1a-5203-4a04-932e-bb0eca5ee012</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'GRP-009Team Admin  AND  . . .   OR  . . . ' or . = 'GRP-009Team Admin  AND  . . .   OR  . . . ')]</value>
+      <webElementGuid>27dec5b8-ada9-4518-a289-ee131b8ef806</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

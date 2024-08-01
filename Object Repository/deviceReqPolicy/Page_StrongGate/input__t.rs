@@ -1,33 +1,24 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <WebElementEntity>
    <description></description>
-   <name>input_Name of Location IPMac List_listName</name>
+   <name>input__t</name>
    <tag></tag>
-   <elementGuidId>bae5f03b-545f-41e0-8e06-4bb330db7981</elementGuidId>
-   <imagePath></imagePath>
+   <elementGuidId>24cd77f6-14d0-4db4-b12c-e5701e1bcd0c</elementGuidId>
    <selectorCollection>
       <entry>
          <key>CSS</key>
-         <value>#listName</value>
+         <value>#txt-team-domain</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//input[@id='listName']</value>
-      </entry>
-      <entry>
-         <key>IMAGE</key>
-         <value></value>
-      </entry>
-      <entry>
-         <key>BASIC</key>
-         <value>//*[@type = 'text' and @placeholder = 'Enter Name of Predefined IP/Mac List Name' and @id = 'listName']</value>
+         <value>//input[@id='txt-team-domain']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;Enter Name of Predefined IP/Mac List Name&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;团队域名&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -38,94 +29,94 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>1233a438-99dd-4f55-8cd3-2b6a81c9851b</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>class</name>
-      <type>Main</type>
-      <value>el-input__inner</value>
-      <webElementGuid>3a5a9998-d1d6-4202-8fc7-cd7a60976630</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>type</name>
-      <type>Main</type>
-      <value>text</value>
-      <webElementGuid>71a18233-b74c-48a8-ab16-e1355cb674b6</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>autocomplete</name>
-      <type>Main</type>
-      <value>off</value>
-      <webElementGuid>23ca82d1-f799-4ee1-a792-35edba22fa4d</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>false</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>tabindex</name>
-      <type>Main</type>
-      <value>0</value>
-      <webElementGuid>cab20f47-ecc7-4a00-b26e-2830cffae9dc</webElementGuid>
-   </webElementProperties>
-   <webElementProperties>
-      <isSelected>true</isSelected>
-      <matchCondition>equals</matchCondition>
-      <name>placeholder</name>
-      <type>Main</type>
-      <value>Enter Name of Predefined IP/Mac List Name</value>
-      <webElementGuid>83bb645e-77a5-4a0d-afd8-308ae62b3e42</webElementGuid>
+      <webElementGuid>e879c698-251a-414d-b892-4815dc15e802</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
-      <value>listName</value>
-      <webElementGuid>18cbd89b-a713-4a5c-a3ae-4ec475e50a07</webElementGuid>
+      <value>txt-team-domain</value>
+      <webElementGuid>c82513b6-92ee-4f1c-8895-5e21889c236c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>name</name>
+      <type>Main</type>
+      <value>t</value>
+      <webElementGuid>f52c64d9-13d5-4f83-859e-16785a7aa1ea</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>08478397-c71b-4d12-862a-ab0c19075895</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>团队域名</value>
+      <webElementGuid>0765b4c4-5af8-409d-9894-62e3a3b6f186</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>oninput</name>
+      <type>Main</type>
+      <value>monitorDomain()</value>
+      <webElementGuid>d472f099-b177-416f-ac86-de551c853bfd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onkeyup</name>
+      <type>Main</type>
+      <value>onSignIn(event)</value>
+      <webElementGuid>32449c29-7cd9-466d-b495-add7ba436603</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;listName&quot;)</value>
-      <webElementGuid>11067554-87a6-4330-b3d5-22ca0105f33b</webElementGuid>
+      <value>id(&quot;txt-team-domain&quot;)</value>
+      <webElementGuid>6a4b8d48-e84a-411c-9bd0-dc0a5ec5ce3a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>//input[@id='listName']</value>
-      <webElementGuid>5c0f0b97-dce2-4a17-8d86-429b901073b7</webElementGuid>
+      <value>//input[@id='txt-team-domain']</value>
+      <webElementGuid>0d56c64a-8882-499a-be43-64b09ef1941e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/form/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>108b9579-042e-4fab-9b1d-91796c14ee51</webElementGuid>
+      <value>//form[@id='frmSignIn']/div[4]/input</value>
+      <webElementGuid>4cbc872e-5a86-4baf-afaf-6b56db2eb1f6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:position</name>
       <type>Main</type>
-      <value>//div/div/div/input</value>
-      <webElementGuid>fe8e0d7a-932b-417d-9cb7-54bba4b1eebb</webElementGuid>
+      <value>//div[4]/input</value>
+      <webElementGuid>e7ea89a9-07f6-4028-91b1-91bd5bb2600a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//input[@type = 'text' and @placeholder = 'Enter Name of Predefined IP/Mac List Name' and @id = 'listName']</value>
-      <webElementGuid>36aaf27a-49c6-4ae8-9673-c117b528fba2</webElementGuid>
+      <value>//input[@id = 'txt-team-domain' and @name = 't' and @placeholder = '团队域名']</value>
+      <webElementGuid>c3fd41dc-0165-47d2-ad44-08a7e4b19338</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

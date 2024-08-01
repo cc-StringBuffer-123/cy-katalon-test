@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Group</name>
+   <tag></tag>
+   <elementGuidId>c44a16fd-7115-4538-83fe-53ccf7e9e7e7</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cascader-menu-6651-0-92 > span.el-cascader-node__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='cascader-menu-6651-0-92']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;Group&quot;s] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>282b0a9f-5d74-40af-8eeb-0c24a1e4005b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-cascader-node__label</value>
+      <webElementGuid>4972bc37-a6f5-4837-8008-74da61145604</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Group</value>
+      <webElementGuid>c8e491d4-edc9-4044-8d6e-641b4c5693b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cascader-menu-6651-0-92&quot;)/span[@class=&quot;el-cascader-node__label&quot;]</value>
+      <webElementGuid>476cb8ae-66a8-48e8-a79b-758fe766ad64</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='cascader-menu-6651-0-92']/span</value>
+      <webElementGuid>7ff03c9f-271a-41fc-8fc7-7b7f09b939b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source Ip:Port'])[3]/following::span[1]</value>
+      <webElementGuid>8f4b9c5c-3044-408a-9c2d-f8a02b6491ed</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Source Region'])[3]/following::span[2]</value>
+      <webElementGuid>055a9057-02cb-4dd4-a916-4690477bc0f8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Device Location'])[3]/preceding::span[1]</value>
+      <webElementGuid>c95b0af8-12fa-4407-8784-0c1187b368dd</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login Method'])[3]/preceding::span[2]</value>
+      <webElementGuid>70f7eddf-e031-4db6-acbc-cbca3b4d5b9b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[8]/div/div/div/ul/li[5]/span</value>
+      <webElementGuid>c4f444bf-4e62-4ba2-9095-58f01a7a57ef</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Group' or . = 'Group')]</value>
+      <webElementGuid>6bfec7ce-1e8f-4f5b-a017-a35e72f6fe43</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

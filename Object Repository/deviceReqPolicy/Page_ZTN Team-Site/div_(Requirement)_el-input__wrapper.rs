@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_(Requirement)_el-input__wrapper</name>
+   <tag></tag>
+   <elementGuidId>de39093a-6d86-43b9-8aaa-60c726b4fd49</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#constraint > div:nth-of-type(4) > div.tree-data > table.rule > tbody > tr > td.operator-td > div > div.el-select.el-select--large.rule-value-select-container > div.select-trigger.el-tooltip__trigger.el-tooltip__trigger > div.el-input.el-input--large.el-input--suffix > div.el-input__wrapper</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='constraint']/div[4]/div[3]/table/tbody/tr/td[3]/div/div/div/div[2]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#constraint > div:nth-child(4) > .tree-data > .rule > tbody > tr > td:nth-child(3) > div > .el-select > .select-trigger > .el-input > .el-input__wrapper</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>e943aa7c-e5ac-4b6d-8250-06ab455cf979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-input__wrapper</value>
+      <webElementGuid>e56aad1d-8cc5-4455-b119-5e86a1b8f662</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>054dd912-03c2-4423-8164-940dec3cb25b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;constraint&quot;)/div[4]/div[@class=&quot;tree-data&quot;]/table[@class=&quot;rule&quot;]/tbody[1]/tr[1]/td[@class=&quot;operator-td&quot;]/div[1]/div[@class=&quot;el-select el-select--large rule-value-select-container&quot;]/div[@class=&quot;select-trigger el-tooltip__trigger el-tooltip__trigger&quot;]/div[@class=&quot;el-input el-input--large el-input--suffix&quot;]/div[@class=&quot;el-input__wrapper&quot;]</value>
+      <webElementGuid>d38bd7d3-dcd7-4075-9ba4-3ace521a217b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='constraint']/div[4]/div[3]/table/tbody/tr/td[3]/div/div/div/div[2]/div</value>
+      <webElementGuid>155589ec-31c2-4524-a786-5968f93d0a77</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(Requirement)'])[1]/following::div[17]</value>
+      <webElementGuid>d9913cef-544c-4845-a0be-d3a886ea2ccc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='ALL'])[1]/following::div[17]</value>
+      <webElementGuid>d7350314-3a48-4da4-a7e1-50e41138fdfc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='. . .'])[3]/preceding::div[2]</value>
+      <webElementGuid>331d937a-a645-42ae-b81e-eaeb6fb71c64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[4]/div[3]/table/tbody/tr/td[3]/div/div/div/div[2]/div</value>
+      <webElementGuid>c8f7127c-5b53-4d0f-940c-16ab97b426f2</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

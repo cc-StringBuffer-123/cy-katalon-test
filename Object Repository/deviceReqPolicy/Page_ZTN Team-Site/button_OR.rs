@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>button_OR</name>
+   <tag></tag>
+   <elementGuidId>09702cab-fe19-409e-adec-66287ea93d80</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#exclusion > div:nth-of-type(4) > div.tree-data > div > button.el-button.el-button--small.constraint</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//button[@type='button'])[20]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#exclusion >> internal:role=button[name=&quot;OR . . .&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>550eb6f9-e8bc-4bc3-a696-966fdbe7722a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-disabled</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>2709b1ff-5242-4a99-b09e-9fe791d2eb9d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>button</value>
+      <webElementGuid>9c6d6d5f-8434-4b33-a480-8e30b0b2acca</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-button el-button--small constraint</value>
+      <webElementGuid>cc21193d-620c-4382-9b3f-6b25f63389dc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  OR  . . . </value>
+      <webElementGuid>cf8135f8-f10b-4196-acc6-0e718f7e4a6d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;exclusion&quot;)/div[4]/div[@class=&quot;tree-data&quot;]/div[1]/button[@class=&quot;el-button el-button--small constraint&quot;]</value>
+      <webElementGuid>13b71636-0c94-45d8-836c-f98866911dce</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//button[@type='button'])[20]</value>
+      <webElementGuid>6e0bb2f9-6c6c-4457-95a4-915c693bc2da</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='exclusion']/div[4]/div[3]/div/button</value>
+      <webElementGuid>c0fa2f36-3845-4c5f-91e1-8e9864e43ff2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='. . .'])[5]/following::button[1]</value>
+      <webElementGuid>d0e9219c-1053-4a83-8377-800b529b37d7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[4]/div[3]/div/button</value>
+      <webElementGuid>97d52a53-ffba-419f-b9ff-3e5563567790</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//button[@type = 'button' and (text() = '  OR  . . . ' or . = '  OR  . . . ')]</value>
+      <webElementGuid>040f51f2-3eab-4a4b-b12d-f3601a5e0ebf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

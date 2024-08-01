@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Time Of Day</name>
+   <tag></tag>
+   <elementGuidId>5d27baef-4aa2-4351-b922-15b7750f7da3</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#cascader-menu-8694-0-140 > span.el-cascader-node__label</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//li[@id='cascader-menu-8694-0-140']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=menuitem[name=&quot;Time Of Day&quot;i] >> span</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>4e19127e-0e4d-4106-a910-033881f41c3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-cascader-node__label</value>
+      <webElementGuid>67b0552f-4cad-4c77-945d-b2c0bf7dcca5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Time Of Day</value>
+      <webElementGuid>f5e4d1b7-85c3-4210-aecc-3a60bf1b84a4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;cascader-menu-8694-0-140&quot;)/span[@class=&quot;el-cascader-node__label&quot;]</value>
+      <webElementGuid>3a457ada-cd43-49d5-ab52-1a66b59d244d</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//li[@id='cascader-menu-8694-0-140']/span</value>
+      <webElementGuid>7daab205-971b-488d-928c-21941a730db6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='IdP'])[4]/following::span[1]</value>
+      <webElementGuid>66e89bb7-1853-4609-a0d4-0f08fe3cef10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Login Method'])[4]/following::span[2]</value>
+      <webElementGuid>da1ccd2d-40ab-4afd-8ca2-85959c68481b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Day Of Week'])[4]/preceding::span[1]</value>
+      <webElementGuid>e9dd47d2-d732-4928-9815-012cdabf1209</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Holidays'])[4]/preceding::span[2]</value>
+      <webElementGuid>e0fe944a-43ce-4e61-a7b0-6a2e6614d660</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[11]/div/div/div/ul/li[9]/span</value>
+      <webElementGuid>0020cd82-a4ea-4a97-8fd7-cb4959e74c62</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Time Of Day' or . = 'Time Of Day')]</value>
+      <webElementGuid>00fa027b-b174-4460-b02a-b8ffaf23761c</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

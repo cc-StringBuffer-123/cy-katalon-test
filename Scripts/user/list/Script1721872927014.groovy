@@ -1,25 +1,26 @@
-import static com.kms.katalon.core.checkpoint.CheckpointFactory.findCheckpoint
-import static com.kms.katalon.core.testcase.TestCaseFactory.findTestCase
-import static com.kms.katalon.core.testdata.TestDataFactory.findTestData
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import static com.kms.katalon.core.testobject.ObjectRepository.findWindowsObject
-import com.kms.katalon.core.checkpoint.Checkpoint as Checkpoint
-import com.kms.katalon.core.cucumber.keyword.CucumberBuiltinKeywords as CucumberKW
-import com.kms.katalon.core.mobile.keyword.MobileBuiltInKeywords as Mobile
-import com.kms.katalon.core.model.FailureHandling as FailureHandling
-import com.kms.katalon.core.testcase.TestCase as TestCase
-import com.kms.katalon.core.testdata.TestData as TestData
-import com.kms.katalon.core.testng.keyword.TestNGBuiltinKeywords as TestNGKW
-import com.kms.katalon.core.testobject.TestObject as TestObject
-import com.kms.katalon.core.webservice.keyword.WSBuiltInKeywords as WS
-import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import com.kms.katalon.core.windows.keyword.WindowsBuiltinKeywords as Windows
-import internal.GlobalVariable as GlobalVariable
+import java.sql.Connection as Connection
+import java.sql.DriverManager as DriverManager
+import java.sql.PreparedStatement as PreparedStatement
+import java.sql.ResultSet as ResultSet
 import org.openqa.selenium.Keys as Keys
+import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
+import internal.GlobalVariable as GlobalVariable
 
-WebUI.openBrowser('')
+String url = GlobalVariable.Mysql_Url
 
-WebUI.navigateToUrl('https://auth.sogate.net:38889/')
+String usr = GlobalVariable.Mysql_User
+
+String pwd = GlobalVariable.Mysql_Pwd
+
+Connection connection = DriverManager.getConnection(url, usr, pwd)
+
+PreparedStatement preparedStatement = null
+
+ResultSet resultSet = null
+
+//WebUI.openBrowser('')
+WebUI.openBrowser('https://auth.sogate.net:38889/')
 
 // Generate unique value
 String uniquValue = UUID.randomUUID().toString().replace('-', '').substring(0, 6)
@@ -131,6 +132,54 @@ WebUI.click(findTestObject('Object Repository/user/list/Page_StrongGate/div__1')
 
 WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/div_Team'))
 
+String findByTeamDomain = 'SELECT team_uid, team_name, team_domain, owner_member_id FROM tbl_team_info WHERE team_domain = ? AND record_status=1'
+
+preparedStatement = connection.prepareStatement(findByTeamDomain)
+
+preparedStatement.setString(1, 'test' + uniquValue)
+
+resultSet = preparedStatement.executeQuery()
+
+if (!(resultSet.next())) {
+    throw new Exception(('No data found for team domain: ' + 'test') + uniquValue)
+}
+
+String teamUid = resultSet.getString('team_uid')
+
+String teamName = resultSet.getString('team_name')
+
+String teamDomain = resultSet.getString('team_domain')
+
+String ownerMemberId = resultSet.getString('owner_member_id')
+
+println(teamUid)
+
+println(teamName)
+
+println(teamDomain)
+
+println(ownerMemberId)
+
+String findMemberById = "SELECT user_id, member_state FROM tbl_team_member WHERE member_id=? AND record_status=1"
+
+preparedStatement = connection.prepareStatement(findMemberById)
+
+preparedStatement.setString(1, ownerMemberId)
+
+resultSet = preparedStatement.executeQuery()
+
+if (!(resultSet.next())) {
+	throw new Exception('No data found for owner member id: ' + ownerMemberId)
+}
+
+String userId = resultSet.getString('user_id')
+
+String memberState = resultSet.getString('member_state')
+
+println(userId)
+
+println(memberState)
+
 WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/li_Users'))
 
 WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/span_Add User'))
@@ -186,6 +235,11 @@ WebUI.sendKeys(findTestObject('Object Repository/user/list/Page_StrongGate/input
 
 WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/div_Team'))
 
+// member role
+
+
+
+
 WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/li_Users'))
 
 WebUI.delay(7)
@@ -214,4 +268,3 @@ WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/div_U
 WebUI.delay(7)
 
 driver.switchTo().window(tabs.get(2))
-

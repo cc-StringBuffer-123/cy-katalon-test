@@ -53,8 +53,4 @@ class WebData {
 		List<WebElement> selectedRows = mailList.findElements(By.tagName('tr'))
 		return selectedRows
 	}
-
-	
-	
-	
 }

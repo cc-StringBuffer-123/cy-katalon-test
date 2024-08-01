@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_confirm</name>
+   <tag></tag>
+   <elementGuidId>85741101-4521-43f4-8706-512b4540d01b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ztn-page-t400.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='confirmButton']/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;confirm&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>3c0e1b06-27bc-4d23-880f-d5ae3fa087cf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-page-t400 text</value>
+      <webElementGuid>8d8f9e7f-a894-4147-ba99-be367f391603</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>confirm </value>
+      <webElementGuid>eaa82533-5e26-4f35-8238-8ab4619d7202</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;confirmButton&quot;)/span[@class=&quot;ztn-page-t400 text&quot;]</value>
+      <webElementGuid>b4434774-0577-41a8-80c7-b7e7f914ad6b</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='confirmButton']/span</value>
+      <webElementGuid>7f355394-22c4-487e-824d-c630e68b64ba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='cancel'])[1]/following::span[1]</value>
+      <webElementGuid>a8feb229-b4c8-45ac-a84e-6cbd0e6fd7c6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items per page:'])[1]/following::span[6]</value>
+      <webElementGuid>413889ae-bdf9-41bd-a8dc-e0a6917c7c4a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Rule(s)'])[1]/preceding::span[1]</value>
+      <webElementGuid>bf43db4e-3a43-4b35-8578-4f06b85b4d00</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='for all selected group members for additional filtering and constraints.'])[1]/preceding::span[2]</value>
+      <webElementGuid>7d6671ed-4add-4b77-92fa-253b775d9095</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='confirm']/parent::*</value>
+      <webElementGuid>53254db1-2efa-46d5-b09e-eda59cba395c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//button[2]/span</value>
+      <webElementGuid>b26aa4f1-361b-41a8-8071-de65ff810cba</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'confirm ' or . = 'confirm ')]</value>
+      <webElementGuid>1c7722c3-1273-418c-a0c8-e4d41a024947</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
