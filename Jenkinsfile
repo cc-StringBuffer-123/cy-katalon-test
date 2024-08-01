@@ -1,6 +1,5 @@
 pipeline {
     agent any
-
     environment {
         KATALON_CMD = "C:/Users/ChanYing/Desktop/Katalon_Studio_Engine_Windows_64-9.6.0"
     }
@@ -8,7 +7,9 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git :'https://github.com/cc-StringBuffer-123/cy-katalon-test.git'
+            	git branch: 'main',
+            	credentialsId: 'ed',
+                url :'https://github.com/cc-StringBuffer-123/cy-katalon-test.git'
             }
         }
         stage('Run Katalon Test Suite') {
