@@ -1,13 +1,12 @@
 {
-  "keywordFileContentHash": "160FAE1FF0FB0DC1C52E0AB189031158",
+  "keywordFileContentHash": "048C8893506F788BF5D4C1267C6562F3",
   "keywordClasses": [
     {
       "name": "model.WebData",
       "keywordMethods": [
         {
           "name": "refreshBrowser",
-          "parameters": [],
-          "javadoc": "/**\n\t * Refresh browser\n\t */"
+          "parameters": []
         },
         {
           "name": "clickElement",
@@ -25,8 +24,7 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": "/**\n\t * Click element\n\t * @param to Katalon test object\n\t */"
+          ]
         },
         {
           "name": "getHtmlTableRows",
@@ -44,11 +42,10 @@
                 "errorOnParsing": false
               }
             }
-          ],
-          "javadoc": "/**\n\t * Get all rows of HTML table\n\t * @param table Katalon test object represent for HTML table\n\t * @param outerTagName outer tag name of TR tag, usually is TBODY\n\t * @return All rows inside HTML table\n\t */"
+          ]
         }
       ]
     }
   ],
-  "javadocParsed": true
+  "javadocParsed": false
 }

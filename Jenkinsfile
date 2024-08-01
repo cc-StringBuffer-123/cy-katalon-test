@@ -8,7 +8,7 @@ pipeline {
     stages {
         stage('Checkout') {
             steps {
-                git 'https://github.com/username/repository.git'
+                git :'https://github.com/cc-StringBuffer-123/cy-katalon-test.git'
             }
         }
         stage('Run Katalon Test Suite') {
