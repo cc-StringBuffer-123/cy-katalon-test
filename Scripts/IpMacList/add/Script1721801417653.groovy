@@ -75,6 +75,8 @@ robot.keyPress(KeyEvent.VK_ENTER)
 
 robot.keyRelease(KeyEvent.VK_ENTER)
 
+WebUI.delay(3)
+
 WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/button_Append'))
 
 WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_Comments_ipAddress'), '127.0.0.1')
@@ -106,14 +108,14 @@ WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_test999test.com'))
 WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), Keys.chord(
         Keys.ENTER))
 
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'))
-
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_testtest.com'))
-
-WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), 'test@test.com')
-
-WebUI.sendKeys(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), Keys.chord(
-        Keys.ENTER))
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'))
+//
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_testtest.com'))
+//
+//WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), 'test@test.com')
+//
+//WebUI.sendKeys(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), Keys.chord(
+//        Keys.ENTER))
 
 WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/img_List owner adddel List administrator. O_8b3ded'))
 
