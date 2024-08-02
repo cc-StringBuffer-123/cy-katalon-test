@@ -19,9 +19,9 @@ import model.WebData
 
 //WebUI.openBrowser('')
 
-//WebUI.navigateToUrl('https://127.0.0.1:18080/')
+//WebUI.navigateToUrl('https://auth.sogate.net:38889/')
 
-WebUI.openBrowser('https://127.0.0.1:18080/')
+WebUI.openBrowser('https://auth.sogate.net:38889/')
 
 String uniquValue = UUID.randomUUID().toString().replace('-', '').substring(0, 6)
 

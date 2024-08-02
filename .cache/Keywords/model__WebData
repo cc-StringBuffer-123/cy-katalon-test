@@ -6,7 +6,8 @@
       "keywordMethods": [
         {
           "name": "refreshBrowser",
-          "parameters": []
+          "parameters": [],
+          "javadoc": "/**\n\t * Refresh browser\n\t */"
         },
         {
           "name": "clickElement",
@@ -24,7 +25,8 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\n\t * Click element\n\t * @param to Katalon test object\n\t */"
         },
         {
           "name": "getHtmlTableRows",
@@ -42,10 +44,11 @@
                 "errorOnParsing": false
               }
             }
-          ]
+          ],
+          "javadoc": "/**\n\t * Get all rows of HTML table\n\t * @param table Katalon test object represent for HTML table\n\t * @param outerTagName outer tag name of TR tag, usually is TBODY\n\t * @return All rows inside HTML table\n\t */"
         }
       ]
     }
   ],
-  "javadocParsed": false
+  "javadocParsed": true
 }
