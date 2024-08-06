@@ -178,7 +178,7 @@ for (WebElement span : spanElements) {
 String listOwner = WebUI.getAttribute(findTestObject('IpMacList/Page_ZTN Team-Site/input_List owner adddel List administrator._557ec0'), 
     'value')
 
-KeywordUtil.logInfo('--------------------------------------' + selectedRadioValue)
+KeywordUtil.logInfo(selectedRadioValue)
 
 Map<String, String> formData = [('listName') : listName, ('uploadType') : PredefinedListUploadEnum.fromLabel(selectedRadioValue).value
     , ('tableData') : tableData, ('listAdmin') : spanTexts, ('listOwner') : listOwner]
