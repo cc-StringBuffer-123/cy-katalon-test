@@ -48,7 +48,7 @@ WebUI.click(findTestObject('Object Repository/user/list/Page_StrongGate/button_'
 
 WebUI.click(findTestObject('Object Repository/user/list/Page_StrongGate/button__1'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 // Open a new TAB using JavaScript
 String script = 'window.open("https://auth.sogate.net:38889/", "_blank");'
@@ -88,7 +88,7 @@ WebUI.click(findTestObject('Object Repository/user/list/Page_StrongGate/button_'
 
 WebUI.click(findTestObject('Object Repository/user/list/Page_StrongGate/button__1'))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.executeJavaScript(script, null)
 
@@ -212,11 +212,11 @@ WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/span_
 
 WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/button_Confirm_1'))
 
-WebUI.delay(7)
+WebUI.delay(3)
 
 driver.switchTo().window(tabs.get(0))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.navigateToUrl('https://auth.sogate.net:38889/')
 
@@ -237,16 +237,13 @@ WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/div_T
 
 // member role
 
-
-
-
 WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/li_Users'))
 
-WebUI.delay(7)
+WebUI.delay(3)
 
 driver.switchTo().window(tabs.get(1))
 
-WebUI.delay(3)
+WebUI.delay(1)
 
 WebUI.navigateToUrl('https://auth.sogate.net:38889/')
 
@@ -265,6 +262,6 @@ WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/div_T
 
 WebUI.click(findTestObject('Object Repository/user/list/Page_ZTN Team-Site/div_Users'))
 
-WebUI.delay(7)
+WebUI.delay(3)
 
 driver.switchTo().window(tabs.get(2))

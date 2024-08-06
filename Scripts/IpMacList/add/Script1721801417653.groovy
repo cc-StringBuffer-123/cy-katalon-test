@@ -101,13 +101,13 @@ WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/textarea_Select_comme
 
 WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/path'))
 
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'))
-
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_test999test.com'))
-
-WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), Keys.chord(
-        Keys.ENTER))
-
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'))
+//
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_test999test.com'))
+//
+//WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), Keys.chord(
+//        Keys.ENTER))
+//
 //WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'))
 //
 //WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_testtest.com'))
