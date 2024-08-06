@@ -1,26 +1,21 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-
-import java.awt.Robot
-import java.awt.Toolkit
-import java.awt.datatransfer.StringSelection
-import java.awt.event.KeyEvent
-
-import org.openqa.selenium.By
-import org.openqa.selenium.Keys
-import org.openqa.selenium.WebDriver
-import org.openqa.selenium.WebElement
-
-import com.kms.katalon.core.webui.driver.DriverFactory
+import java.awt.Robot as Robot
+import java.awt.Toolkit as Toolkit
+import java.awt.datatransfer.StringSelection as StringSelection
+import java.awt.event.KeyEvent as KeyEvent
+import org.openqa.selenium.By as By
+import org.openqa.selenium.Keys as Keys
+import org.openqa.selenium.WebDriver as WebDriver
+import org.openqa.selenium.WebElement as WebElement
+import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
+import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-
-import groovy.json.JsonOutput
-import model.PredefinedListUploadEnum
-import model.WebData
+import groovy.json.JsonOutput as JsonOutput
+import model.PredefinedListUploadEnum as PredefinedListUploadEnum
+import model.WebData as WebData
 
 //WebUI.openBrowser('')
-
 //WebUI.navigateToUrl('https://127.0.0.1:18080/')
-
 WebUI.openBrowser('https://127.0.0.1:18080/')
 
 String uniquValue = UUID.randomUUID().toString().replace('-', '').substring(0, 6)
@@ -116,7 +111,6 @@ WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/path'))
 //
 //WebUI.sendKeys(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'), Keys.chord(
 //        Keys.ENTER))
-
 WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/img_List owner adddel List administrator. O_8b3ded'))
 
 WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_List owner adddel List administrator._557ec0'), 'test120@test.com')
@@ -148,12 +142,10 @@ WebData wt = new WebData()
 List<WebElement> tableRows = wt.getHtmlTableRows(findTestObject('IpMacList/Page_ZTN Team-Site/list-table'))
 
 //WebElement table = WebUI.findWebElement(findTestObject('IpMacList/Page_ZTN Team-Site/list-table'))
-
 //List<WebElement> tableRows = table.findElements(By.tagName('tr'))
-
 List<WebElement> tableData = []
 
-tableRows.each{ row ->
+tableRows.each({ def row ->
         List<WebElement> cells = row.findElements(By.tagName('td'))
 
         if (cells.size() >= 5) {
@@ -171,7 +163,7 @@ tableRows.each{ row ->
 
             tableData.add(rowData)
         }
-    }
+    })
 
 WebElement divElement = driver.findElement(By.cssSelector('div.tagDiv'))
 
@@ -185,6 +177,8 @@ for (WebElement span : spanElements) {
 
 String listOwner = WebUI.getAttribute(findTestObject('IpMacList/Page_ZTN Team-Site/input_List owner adddel List administrator._557ec0'), 
     'value')
+
+KeywordUtil.logInfo('--------------------------------------' + selectedRadioValue)
 
 Map<String, String> formData = [('listName') : listName, ('uploadType') : PredefinedListUploadEnum.fromLabel(selectedRadioValue).value
     , ('tableData') : tableData, ('listAdmin') : spanTexts, ('listOwner') : listOwner]

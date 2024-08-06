@@ -18,6 +18,6 @@ public enum PredefinedListUploadEnum {
 				return option
 			}
 		}
-		throw new IllegalArgumentException("No enum constant with label " + label)
+		return PredefinedListUploadEnum.APPEND
 	}
 }

@@ -7,7 +7,6 @@
    <selectorCollection>
       <entry>
          <key>BASIC</key>
-         <value></value>
       </entry>
       <entry>
          <key>XPATH</key>
@@ -18,6 +17,7 @@
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
+         <value></value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
