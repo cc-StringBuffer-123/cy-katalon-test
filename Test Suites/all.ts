@@ -12,7 +12,14 @@
    <rerunImmediately>true</rerunImmediately>
    <testSuiteGuid>39c04421-2ed1-43b3-9b4d-6f7e48fd039f</testSuiteGuid>
    <testCaseLink>
-      <guid>85789ced-00f0-4cfa-aec6-87128221f1ca</guid>
+      <guid>18f6ecf5-4ff8-4c50-a5eb-fe11a475c915</guid>
+      <isReuseDriver>false</isReuseDriver>
+      <isRun>true</isRun>
+      <testCaseId>Test Cases/IpMacList/add</testCaseId>
+      <usingDataBindingAtTestSuiteLevel>true</usingDataBindingAtTestSuiteLevel>
+   </testCaseLink>
+   <testCaseLink>
+      <guid>a1bc8942-7409-41c1-b6bb-fbbd681d0c53</guid>
       <isReuseDriver>false</isReuseDriver>
       <isRun>true</isRun>
       <testCaseId>Test Cases/user/list</testCaseId>
