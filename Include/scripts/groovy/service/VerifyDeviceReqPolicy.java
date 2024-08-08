@@ -7,13 +7,11 @@ import java.sql.ResultSet;
 
 import com.kms.katalon.core.util.KeywordUtil;
 
-import internal.GlobalVariable;
-
 public class VerifyDeviceReqPolicy {
 
-	static String url = GlobalVariable.Mysql_Url.toString();
-	static String usr = GlobalVariable.Mysql_User.toString();
-	static String pwd = GlobalVariable.Mysql_Pwd.toString();
+	static String url = "jdbc:mysql://192.168.3.28/ztn_team_dev";
+	static String usr = "root";
+	static String pwd = "developer!@#123";
 
 	static Connection connection = null;
 

@@ -1,17 +1,21 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
-import java.awt.Robot as Robot
-import java.awt.Toolkit as Toolkit
-import java.awt.datatransfer.StringSelection as StringSelection
-import java.awt.event.KeyEvent as KeyEvent
-import org.openqa.selenium.By as By
-import org.openqa.selenium.Keys as Keys
-import org.openqa.selenium.WebDriver as WebDriver
-import org.openqa.selenium.WebElement as WebElement
-import com.kms.katalon.core.util.KeywordUtil as KeywordUtil
-import com.kms.katalon.core.webui.driver.DriverFactory as DriverFactory
+
+import java.awt.Robot
+import java.awt.Toolkit
+import java.awt.datatransfer.StringSelection
+import java.awt.event.KeyEvent
+
+import org.openqa.selenium.By
+import org.openqa.selenium.Keys
+import org.openqa.selenium.WebDriver
+import org.openqa.selenium.WebElement
+
+import com.kms.katalon.core.util.KeywordUtil
+import com.kms.katalon.core.webui.driver.DriverFactory
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
-import groovy.json.JsonOutput as JsonOutput
-import model.PredefinedListUploadEnum as PredefinedListUploadEnum
+
+import groovy.json.JsonOutput
+import model.PredefinedListUploadEnum
 import model.WebData as WebData
 
 //WebUI.openBrowser('')
@@ -66,11 +70,11 @@ robot.keyRelease(KeyEvent.VK_V)
 
 robot.keyRelease(KeyEvent.VK_CONTROL)
 
+WebUI.delay(3)
+
 robot.keyPress(KeyEvent.VK_ENTER)
 
 robot.keyRelease(KeyEvent.VK_ENTER)
-
-WebUI.delay(3)
 
 WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/button_Append'))
 
