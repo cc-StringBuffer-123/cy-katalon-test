@@ -6,19 +6,19 @@
    <elementGuidId>24cd77f6-14d0-4db4-b12c-e5701e1bcd0c</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#txt-team-domain</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='txt-team-domain']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#txt-team-domain</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;团队域名&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;团队域：&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e879c698-251a-414d-b892-4815dc15e802</webElementGuid>
+      <webElementGuid>a443fc77-0cbc-4919-8a61-837d1925cfb8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,15 @@
       <name>id</name>
       <type>Main</type>
       <value>txt-team-domain</value>
-      <webElementGuid>c82513b6-92ee-4f1c-8895-5e21889c236c</webElementGuid>
+      <webElementGuid>a63edf1b-43a3-4f9c-b6c5-6cf473f39e27</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>t</value>
-      <webElementGuid>f52c64d9-13d5-4f83-859e-16785a7aa1ea</webElementGuid>
+      <value>teamDomain</value>
+      <webElementGuid>4dc7da34-335b-4a20-87d5-1d1088816858</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,23 +53,23 @@
       <name>class</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>08478397-c71b-4d12-862a-ab0c19075895</webElementGuid>
+      <webElementGuid>2ce58aa9-6279-4956-9adb-d244d3fb491b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>团队域名</value>
-      <webElementGuid>0765b4c4-5af8-409d-9894-62e3a3b6f186</webElementGuid>
+      <value>团队域：</value>
+      <webElementGuid>da1d1e91-f3f7-4fdd-8122-bbf4c8a4113c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>oninput</name>
       <type>Main</type>
-      <value>monitorDomain()</value>
-      <webElementGuid>d472f099-b177-416f-ac86-de551c853bfd</webElementGuid>
+      <value>verification()</value>
+      <webElementGuid>25f6489c-f8ca-4cc8-a759-bac8681f3973</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;txt-team-domain&quot;)</value>
-      <webElementGuid>6a4b8d48-e84a-411c-9bd0-dc0a5ec5ce3a</webElementGuid>
+      <webElementGuid>ebcab894-1a5c-4be3-9735-78486013baf7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>onfocus</name>
+      <type>Main</type>
+      <value>teamDomainFocus()</value>
+      <webElementGuid>9bdecc11-1def-45e6-9d92-1c9081ead41a</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -93,7 +101,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='txt-team-domain']</value>
-      <webElementGuid>0d56c64a-8882-499a-be43-64b09ef1941e</webElementGuid>
+      <webElementGuid>281acd69-b963-4f0f-8390-f6ad9f326b57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmSignUp']/div[6]/input</value>
+      <webElementGuid>7d7b7d2b-d548-4151-859f-5608f794eb46</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[6]/input</value>
+      <webElementGuid>a8676aa9-9f09-4ea3-8650-d343a684d86f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'txt-team-domain' and @name = 'teamDomain' and @placeholder = '团队域：']</value>
+      <webElementGuid>6a9190fd-8973-40d6-9a5e-16b401ad665d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>

@@ -6,16 +6,16 @@
    <elementGuidId>b925c811-45af-4f84-972a-1ecef77dfd8d</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'Device Req Policy' or . = 'Device Req Policy')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
          <value>//div[@id='my-element']/div/div[2]/div/div/div/ul/li[2]/ul/li[3]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>35b1916c-c0f9-42fe-a131-b1c9a2128d80</webElementGuid>
+      <webElementGuid>49a1d815-a378-44de-81d1-7455ad2319af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>0ff6e1fb-31cb-44e8-a348-26c74e7d2781</webElementGuid>
+      <webElementGuid>c980a5aa-3111-446b-bcc5-af09b2a70e08</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,7 +49,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Device Req Policy</value>
-      <webElementGuid>5f4d1dc9-b229-4bb1-bba5-4fc4e148c14b</webElementGuid>
+      <webElementGuid>3b1145e4-d79a-455f-ad8a-4ae4072dcdce</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -57,7 +57,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;my-element&quot;)/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/ul[@class=&quot;el-menu el-menu--vertical ztn-menu&quot;]/li[@class=&quot;el-sub-menu is-opened&quot;]/ul[@class=&quot;el-menu el-menu--inline&quot;]/li[@class=&quot;el-menu-item&quot;]/div[@class=&quot;label&quot;]</value>
-      <webElementGuid>19f40ea5-7ec3-414a-8942-adbd721e26d9</webElementGuid>
+      <webElementGuid>61289835-df31-418f-8c77-028a678ffe0d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -65,7 +65,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='my-element']/div/div[2]/div/div/div/ul/li[2]/ul/li[3]/div</value>
-      <webElementGuid>b3fa5c49-5bfd-4452-a950-6f93d1def683</webElementGuid>
+      <webElementGuid>f194c7d5-c525-4240-accd-1ac95cae12d3</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +73,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Devices'])[1]/following::div[1]</value>
-      <webElementGuid>08ed0887-f03a-4779-af88-7c0a9c885c90</webElementGuid>
+      <webElementGuid>f342b83a-48c4-4cae-8d9a-ff010488845b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +81,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/following::div[2]</value>
-      <webElementGuid>cd50ebde-d714-4682-a4f8-7d14c59e5aee</webElementGuid>
+      <webElementGuid>38ce462c-0384-419f-a8a4-8bbf83506ecb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Groups'])[1]/preceding::div[1]</value>
-      <webElementGuid>5941c75d-403b-4df6-9e12-c1dc84eb647a</webElementGuid>
+      <webElementGuid>990cff80-659b-498d-a321-07b8e83a2bf7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='DeviceID List'])[1]/preceding::div[2]</value>
-      <webElementGuid>ba8e2bc0-af2e-4355-851f-27780375c2d4</webElementGuid>
+      <webElementGuid>fb2e27ff-32ba-467c-978a-1a5c82e9bb67</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Device Req Policy']/parent::*</value>
-      <webElementGuid>f42e38ff-eb05-46ab-bc10-7cd61b6b85fc</webElementGuid>
+      <webElementGuid>63f3834d-2446-4708-bcc8-fa0587131387</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -113,7 +113,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/ul/li[3]/div</value>
-      <webElementGuid>812bf298-b32c-4b9c-9ff1-15eb8f87d339</webElementGuid>
+      <webElementGuid>bc1fcda0-0904-4c81-bb89-9726e98de765</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -121,6 +121,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Device Req Policy' or . = 'Device Req Policy')]</value>
-      <webElementGuid>4735476e-cc72-49d7-ae7b-0e2dc4b942d8</webElementGuid>
+      <webElementGuid>075bd2ce-cc02-4af0-b9f8-28ac1b50a470</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

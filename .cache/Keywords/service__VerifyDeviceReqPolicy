@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "7C153BE9E00589AF0701175A8EA33E46",
+  "keywordClasses": [
+    {
+      "name": "service.VerifyDeviceReqPolicy",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

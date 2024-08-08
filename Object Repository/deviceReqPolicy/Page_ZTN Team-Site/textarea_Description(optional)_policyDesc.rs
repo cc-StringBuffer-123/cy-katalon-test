@@ -6,12 +6,12 @@
    <elementGuidId>ced7f167-0dd5-4f18-8141-f68097b330ba</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#policyDesc</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//textarea[@id='policyDesc']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#policyDesc</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>textarea</value>
-      <webElementGuid>50f64693-20e2-4a1f-ac37-6d07705fd0b2</webElementGuid>
+      <webElementGuid>806f95f2-05bf-45cc-9c5c-f241854c3ba8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-textarea__inner</value>
-      <webElementGuid>eb5c4aaf-9ee6-46cf-a00d-5cc1c6f42b05</webElementGuid>
+      <webElementGuid>0112cb27-1243-43d0-848c-9e3a961f3d2f</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>20e7cc91-0e13-4e3b-b803-fa4b6178c1a1</webElementGuid>
+      <webElementGuid>1d44f9ed-027f-4482-b9a0-72741595979e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>c86c81c1-acf2-4116-86de-32aa57f07641</webElementGuid>
+      <webElementGuid>ace57b2e-0461-4347-9abc-d6a869bec325</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>id</name>
       <type>Main</type>
       <value>policyDesc</value>
-      <webElementGuid>a0a472e6-39ba-4c6f-801b-66ac1bcf46ab</webElementGuid>
+      <webElementGuid>4eddeddc-de86-400f-a59e-a8e47732d494</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;policyDesc&quot;)</value>
-      <webElementGuid>7bf6403f-824c-4567-95ee-1b37840713cf</webElementGuid>
+      <webElementGuid>a10a01d4-6873-40cb-836c-63f0fed001c2</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//textarea[@id='policyDesc']</value>
-      <webElementGuid>d3d0d967-e726-49a5-a239-eb60a470cd28</webElementGuid>
+      <webElementGuid>eba01341-344c-4126-ab57-95953fd5c93d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='layout-wrapper']/div[2]/div/form/div/div/div[2]/div/div/div/div/textarea</value>
-      <webElementGuid>c3aef300-dc76-45b5-8a4e-8cba1fc482ad</webElementGuid>
+      <webElementGuid>3faebb13-3f25-46c3-8fa8-8fb717922fd2</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//textarea</value>
-      <webElementGuid>f39ab387-ac6f-405d-83c7-b95bf34ed0c3</webElementGuid>
+      <webElementGuid>a38b486c-e0d9-4505-806e-09253cc1d998</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//textarea[@id = 'policyDesc']</value>
-      <webElementGuid>1c6ccc4b-b834-451d-a1bc-3b616b02bdb9</webElementGuid>
+      <webElementGuid>8a072f76-f9e6-4554-b762-f50c4b58b309</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

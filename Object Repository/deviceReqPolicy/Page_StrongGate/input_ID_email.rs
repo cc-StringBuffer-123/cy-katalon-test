@@ -6,19 +6,19 @@
    <elementGuidId>d44a8157-2422-48be-b8eb-5c4ee873c63b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#email</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='email']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#email</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
    <smartLocatorCollection>
       <entry>
          <key>SMART_LOCATOR</key>
-         <value>internal:attr=[placeholder=&quot;您的StrongGate电子邮件地址&quot;i]</value>
+         <value>internal:attr=[placeholder=&quot;您的电子邮件地址&quot;i]</value>
       </entry>
    </smartLocatorCollection>
    <smartLocatorEnabled>false</smartLocatorEnabled>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>135a071b-241e-4fab-937b-198332c02e05</webElementGuid>
+      <webElementGuid>4dcf0696-4633-4380-b00e-de98bf20a950</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,15 +37,15 @@
       <name>id</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>88da8d9d-252d-44f7-847a-c7fb6e9a32fc</webElementGuid>
+      <webElementGuid>3619c4da-6614-4a37-b883-57378cb98afd</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>name</name>
       <type>Main</type>
-      <value>email</value>
-      <webElementGuid>ad93fca9-b799-4b5c-b515-1611db4fffcd</webElementGuid>
+      <value>loginName</value>
+      <webElementGuid>68a6b23f-5eb3-4d27-849e-3b1665b19a9e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>b483b743-d91d-40e0-94fd-f63ea03583ed</webElementGuid>
+      <webElementGuid>2ee454dd-9b4d-4c1f-9b29-3f8d6a4d55f8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>class</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>fd46aaae-9012-4fd9-8dca-68eee5acc5d9</webElementGuid>
+      <webElementGuid>9f5656f5-8af7-4c72-84d1-7374a617efef</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,15 +69,15 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>email</value>
-      <webElementGuid>88aec2bb-c352-4462-aaaa-d8f1c82dc624</webElementGuid>
+      <webElementGuid>a9cb2c93-a609-4a4f-8a12-84d203951aad</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>placeholder</name>
       <type>Main</type>
-      <value>您的StrongGate电子邮件地址</value>
-      <webElementGuid>00c43806-0807-4fe6-9af1-574e70ce3f7f</webElementGuid>
+      <value>您的电子邮件地址</value>
+      <webElementGuid>5b5dd068-221d-4787-8016-b4353da8e03c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>oninput</name>
       <type>Main</type>
       <value>verification()</value>
-      <webElementGuid>9dae61bc-084a-4122-9662-1088e8faf05c</webElementGuid>
+      <webElementGuid>878ae923-c081-43d7-ae6b-f13217211a88</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,15 +93,15 @@
       <name>onblur</name>
       <type>Main</type>
       <value>emailBlur()</value>
-      <webElementGuid>aef16865-5934-4ed9-8668-6ea3beb387a8</webElementGuid>
+      <webElementGuid>ae8f6c4b-6f00-4b95-bc93-07cdaee0b23d</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>onfocus</name>
       <type>Main</type>
-      <value>loginIdFocus()</value>
-      <webElementGuid>14f4f499-c0b2-4599-8813-8591fb876c16</webElementGuid>
+      <value>focusEmail()</value>
+      <webElementGuid>95405593-0b56-4513-8e94-6ad34a45fa76</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;email&quot;)</value>
-      <webElementGuid>4cefc8af-c400-4599-9415-9a6864e05956</webElementGuid>
+      <webElementGuid>513b7909-5c82-418c-844b-641258ee7397</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -117,7 +117,31 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='email']</value>
-      <webElementGuid>c4529856-2e17-491c-b932-7e7323985ac6</webElementGuid>
+      <webElementGuid>ee902de1-56e1-4f2d-8d12-9af14eb03acb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='dosignup']/div[3]/input</value>
+      <webElementGuid>d318c951-754b-45bc-893f-975216cc5007</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/input</value>
+      <webElementGuid>bf448de6-18b1-42a6-beb5-0846d1dd10ec</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'email' and @name = 'loginName' and @placeholder = '您的电子邮件地址']</value>
+      <webElementGuid>3b947a60-b738-4f6e-9ba7-d6912cf45f89</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,7 +149,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='frmSignin']/div[2]/input</value>
-      <webElementGuid>01ab4717-1654-4ed9-a8bc-fe5e95e898f4</webElementGuid>
+      <webElementGuid>ebc14cb7-f5bc-403d-a3b6-85bc49ad3b61</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -133,7 +157,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//input</value>
-      <webElementGuid>69623730-4a36-48aa-9bfb-63d5f27aefcb</webElementGuid>
+      <webElementGuid>2c8d9e11-6c1c-4c0f-9115-e12e06a6cf87</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -141,6 +165,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'email' and @name = 'email' and @type = 'text' and @placeholder = '您的StrongGate电子邮件地址']</value>
-      <webElementGuid>a4f53e72-2333-4eef-b607-67f34924d31a</webElementGuid>
+      <webElementGuid>de97ac62-5efc-43b6-ac11-f7be1ef23bd4</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -6,12 +6,12 @@
    <elementGuidId>b58ceb4a-10f7-4392-8d14-ce88a96f1468</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>#policyName</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//input[@id='policyName']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#policyName</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>e945a3bf-be87-4755-9c6c-80e425510bf5</webElementGuid>
+      <webElementGuid>e087b40a-ce32-459e-bcb0-76064ba03519</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-input__inner</value>
-      <webElementGuid>9769fdfd-e64b-4f90-9f54-a74238aa5dae</webElementGuid>
+      <webElementGuid>00586402-6243-406c-a227-98bccc910b6a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>maxlength</name>
       <type>Main</type>
       <value>100%</value>
-      <webElementGuid>34b84d04-e5cc-46b5-a6e2-36ef9dd70b1d</webElementGuid>
+      <webElementGuid>0205620c-313b-4213-835f-c0edf827acda</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>type</name>
       <type>Main</type>
       <value>text</value>
-      <webElementGuid>e32f7765-8cec-4103-96cf-4295fecaafbd</webElementGuid>
+      <webElementGuid>605b307b-86c4-483b-b808-c998061fa3fe</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,7 +61,7 @@
       <name>autocomplete</name>
       <type>Main</type>
       <value>off</value>
-      <webElementGuid>f4dca1b6-0e40-4f18-a5c3-b4c3cd213793</webElementGuid>
+      <webElementGuid>d9e41dac-0528-4f43-b441-cba5a31c9a5b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>tabindex</name>
       <type>Main</type>
       <value>0</value>
-      <webElementGuid>c7b8db1a-88ac-4ff3-ad65-f64f90afd1b2</webElementGuid>
+      <webElementGuid>c3c6f286-7c56-4746-9fcc-c70e26d72d36</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>placeholder</name>
       <type>Main</type>
       <value>Policy Name</value>
-      <webElementGuid>ca140b7d-4d47-419a-b515-9f46d269c455</webElementGuid>
+      <webElementGuid>82da900c-add1-45df-8c07-6a30ea39cffb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -85,7 +85,7 @@
       <name>id</name>
       <type>Main</type>
       <value>policyName</value>
-      <webElementGuid>f57b8c78-b93e-4b6c-85e0-9a8fda8b86fa</webElementGuid>
+      <webElementGuid>7087e222-dd49-4000-88d4-8ad569e38c4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;policyName&quot;)</value>
-      <webElementGuid>70c93457-f6ca-459a-b40c-63ae976948ee</webElementGuid>
+      <webElementGuid>735a1221-3adb-4365-a43d-566758cc5e82</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='policyName']</value>
-      <webElementGuid>5f39c530-faa0-42ce-bdc4-7f3703eb61e4</webElementGuid>
+      <webElementGuid>32317b92-5a41-428c-83ba-0e1048df070c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='layout-wrapper']/div[2]/div/form/div/div/div/div/div/div/div/div/input</value>
-      <webElementGuid>6cd89941-f239-47e0-b297-756138541b43</webElementGuid>
+      <webElementGuid>e11d12d5-256e-4afe-910e-7c17eec02977</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,7 +117,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div/div/div/input</value>
-      <webElementGuid>14707cd1-a338-406d-a1d5-2424d5ad92d5</webElementGuid>
+      <webElementGuid>1b286dfb-2e16-4d1f-8ffc-24c5d153e978</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -125,6 +125,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@type = 'text' and @placeholder = 'Policy Name' and @id = 'policyName']</value>
-      <webElementGuid>bc6aba45-5582-483d-9d92-775bec468eac</webElementGuid>
+      <webElementGuid>0dbdf1da-003f-419e-acc3-1eefe2d3a051</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Team Admin</name>
+   <tag></tag>
+   <elementGuidId>68beceeb-5db9-42b2-aadc-a062447f59b0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dialog-grp-table']/div/div[3]/div/div/div/table/tbody/tr[3]/td/div/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'Team Admin' or . = 'Team Admin')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Team Admin&quot;s</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>5b0af218-7cd7-4816-8ea4-d754885b9239</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1</value>
+      <webElementGuid>d3268566-f829-4fd4-93ff-211d24c4faba</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Team Admin</value>
+      <webElementGuid>d2dc8dcb-8666-462e-a66d-a5a6829cefeb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dialog-grp-table&quot;)/div[@class=&quot;el-table__inner-wrapper&quot;]/div[@class=&quot;el-table__body-wrapper&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/div[@class=&quot;el-scrollbar__view&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_22_column_163 table-enable-row el-table__cell&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;mb-1&quot;]</value>
+      <webElementGuid>a2ef87a9-cf0f-4b06-9c3c-34ecbe4cacd6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dialog-grp-table']/div/div[3]/div/div/div/table/tbody/tr[3]/td/div/div</value>
+      <webElementGuid>6e7ff0fc-9c5e-4f7a-a0a9-80ed8818cfee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='YES'])[5]/following::div[4]</value>
+      <webElementGuid>2cba06a9-e673-4aa3-8ecf-16eda38768f5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testdbe755'])[4]/preceding::div[2]</value>
+      <webElementGuid>78d0f77f-754b-435c-ae4e-e64a5869f606</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Team Admin']/parent::*</value>
+      <webElementGuid>86a4b08b-0a93-42c6-bc51-ab81e9f99018</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td/div/div</value>
+      <webElementGuid>1e95aa68-e977-4d9f-b6a2-65257fdeec98</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Team Admin' or . = 'Team Admin')]</value>
+      <webElementGuid>6ee7e5c7-294d-4f55-a5ae-af2e08794ab8</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

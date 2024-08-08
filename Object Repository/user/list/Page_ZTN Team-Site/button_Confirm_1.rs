@@ -6,12 +6,12 @@
    <elementGuidId>57e0446e-1aca-430c-b0b2-e2c4ec8a15ec</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='confirm-button']</value>
-      </entry>
-      <entry>
          <key>CSS</key>
          <value>#confirm-button</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='swal-confirm-button']</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>4376f21b-af67-485c-987a-7ee448b1cd74</webElementGuid>
+      <webElementGuid>ffb8de55-d2f3-49e8-912d-c50b2eef595c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>740da513-b7a5-4a59-8252-8b9a5184887d</webElementGuid>
+      <webElementGuid>de3ff900-afb8-4f64-aba6-66e936e4372e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>swal2-confirm ztn-swal-confirmButton swal2-styled</value>
-      <webElementGuid>7297183d-e6f5-4031-a303-ec4e39717c34</webElementGuid>
+      <webElementGuid>1caf2026-f2ff-415d-a6d9-cff746424d94</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>id</name>
       <type>Main</type>
       <value>confirm-button</value>
-      <webElementGuid>a5dacf1c-c052-4aa2-9363-fb2a2921e9be</webElementGuid>
+      <webElementGuid>d3966dd7-e8aa-49ed-8cb9-9244b4b1ad4c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Confirm</value>
-      <webElementGuid>aaa88b64-706c-4a1b-9ac1-89a7d5217702</webElementGuid>
+      <webElementGuid>1c2399f7-6122-44ea-88f4-1c42c01e5553</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;confirm-button&quot;)</value>
-      <webElementGuid>bb120311-9bad-41e9-be3d-69fc7bfb5db1</webElementGuid>
+      <webElementGuid>e23edcd0-3a54-42f3-9279-b620c9d827d7</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//button[@id='confirm-button']</value>
-      <webElementGuid>5ea2f863-e557-45f5-8779-19c841840631</webElementGuid>
+      <webElementGuid>692e1bfc-6a86-454a-9da3-f915615fc7bd</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::button[1]</value>
-      <webElementGuid>ec54ca86-7c60-47f7-b817-a44c53ad02d9</webElementGuid>
+      <webElementGuid>9e892d41-b6f0-4643-b5dd-811798d9be4c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add successfully'])[1]/following::button[3]</value>
-      <webElementGuid>44f6c987-5c78-4daf-90fc-10cb85424e70</webElementGuid>
+      <webElementGuid>2ed07d03-7f1a-4522-af28-0ce4cff60ca6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Confirm']/parent::*</value>
-      <webElementGuid>1dc20294-2468-4019-aff9-9ec44e7c60ca</webElementGuid>
+      <webElementGuid>438558a4-0326-4a70-bb27-44e3a997d400</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[3]</value>
-      <webElementGuid>739bc1c1-9951-4bc9-b4a6-b0eb14e4eaf1</webElementGuid>
+      <webElementGuid>7fbd84bc-4496-42a7-a6d4-b7605a27a635</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//button[@type = 'button' and @id = 'confirm-button' and (text() = 'Confirm' or . = 'Confirm')]</value>
-      <webElementGuid>9862e3dc-8d1b-40d3-97fe-ebdeb5fcebea</webElementGuid>
+      <webElementGuid>fbf91f91-b74a-4e76-bd9c-ff0da55629d6</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

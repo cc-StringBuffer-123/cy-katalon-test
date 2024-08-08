@@ -6,12 +6,12 @@
    <elementGuidId>85741101-4521-43f4-8706-512b4540d01b</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.ztn-page-t400.text</value>
+         <key>XPATH</key>
+         <value>//button[@id='confirm-button']/span</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//button[@id='confirmButton']/span</value>
+         <key>CSS</key>
+         <value>span.ztn-page-t400.text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>3c0e1b06-27bc-4d23-880f-d5ae3fa087cf</webElementGuid>
+      <webElementGuid>b5627499-cd1a-4a11-9f57-f5623352c8af</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ztn-page-t400 text</value>
-      <webElementGuid>8d8f9e7f-a894-4147-ba99-be367f391603</webElementGuid>
+      <webElementGuid>c2aabb5d-a1b8-49ba-a8fb-4372c9bc74a5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +45,23 @@
       <name>text</name>
       <type>Main</type>
       <value>confirm </value>
-      <webElementGuid>eaa82533-5e26-4f35-8238-8ab4619d7202</webElementGuid>
+      <webElementGuid>5276c430-25ab-4843-82ed-98468653d5a8</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;confirmButton&quot;)/span[@class=&quot;ztn-page-t400 text&quot;]</value>
-      <webElementGuid>b4434774-0577-41a8-80c7-b7e7f914ad6b</webElementGuid>
+      <value>id(&quot;confirm-button&quot;)/span[@class=&quot;ztn-page-t400 text&quot;]</value>
+      <webElementGuid>18c68ad5-fad4-4fff-8576-92a1b5d067a3</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//button[@id='confirmButton']/span</value>
-      <webElementGuid>7f355394-22c4-487e-824d-c630e68b64ba</webElementGuid>
+      <value>//button[@id='confirm-button']/span</value>
+      <webElementGuid>df36871b-09ce-427f-bde3-1b0f3a1a95cb</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='cancel'])[1]/following::span[1]</value>
-      <webElementGuid>a8feb229-b4c8-45ac-a84e-6cbd0e6fd7c6</webElementGuid>
+      <webElementGuid>d6a966fe-30e9-4474-8f4c-55de759d55a4</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Items per page:'])[1]/following::span[6]</value>
-      <webElementGuid>413889ae-bdf9-41bd-a8dc-e0a6917c7c4a</webElementGuid>
+      <webElementGuid>233fb859-4973-4374-8995-afa1eb5db724</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Rule(s)'])[1]/preceding::span[1]</value>
-      <webElementGuid>bf43db4e-3a43-4b35-8578-4f06b85b4d00</webElementGuid>
+      <webElementGuid>c4ba84e7-e73e-4732-8175-e0f93f48b9fa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='for all selected group members for additional filtering and constraints.'])[1]/preceding::span[2]</value>
-      <webElementGuid>7d6671ed-4add-4b77-92fa-253b775d9095</webElementGuid>
+      <webElementGuid>03a71727-826b-479a-a271-49031d04dba0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='confirm']/parent::*</value>
-      <webElementGuid>53254db1-2efa-46d5-b09e-eda59cba395c</webElementGuid>
+      <webElementGuid>387e49c2-e015-4c14-8857-435b1b849d9d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[2]/span</value>
-      <webElementGuid>b26aa4f1-361b-41a8-8071-de65ff810cba</webElementGuid>
+      <webElementGuid>d1157c63-bc1c-432e-9f0f-e669ef968ca5</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,14 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'confirm ' or . = 'confirm ')]</value>
-      <webElementGuid>1c7722c3-1273-418c-a0c8-e4d41a024947</webElementGuid>
+      <webElementGuid>6e4a45f6-07ce-45e4-a397-0d6967885150</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='confirmButton']/span</value>
+      <webElementGuid>d4e00f33-ce16-4528-8378-3332c094d14b</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

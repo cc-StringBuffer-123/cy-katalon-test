@@ -6,12 +6,12 @@
    <elementGuidId>3abf11ab-1c6a-4b6d-9f94-6004fe359212</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.ztn-page-t150</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='groupDialog']/span/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ztn-page-t150</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>c50f17ec-46d0-4af8-aeec-375829495554</webElementGuid>
+      <webElementGuid>a1768458-bdfa-4513-ac5b-c64d74cdd06b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ztn-page-t150</value>
-      <webElementGuid>6d0a866e-27b3-4d29-b146-bbe1f69afc01</webElementGuid>
+      <webElementGuid>dcfcedb2-e451-4d8c-ad58-aa394cd784ff</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>  Add Group </value>
-      <webElementGuid>08920c50-8e37-4318-a3a4-77c506cde37a</webElementGuid>
+      <webElementGuid>8cb5ab8f-f6f6-42ab-b4dc-be583892d0bf</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;groupDialog&quot;)/span[1]/span[@class=&quot;ztn-page-t150&quot;]</value>
-      <webElementGuid>c6a7183b-ff6f-457c-83cd-84c3f8a67c5c</webElementGuid>
+      <webElementGuid>92252212-07d0-4f97-8883-446d657c0870</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='groupDialog']/span/span</value>
-      <webElementGuid>40cd6105-4966-45d1-abfe-9a8caa8b2c19</webElementGuid>
+      <webElementGuid>ea5e95af-c648-4ed9-90a2-53269883726b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Create Rule(s)'])[1]/preceding::span[1]</value>
-      <webElementGuid>a74af438-590f-48c8-b447-b9f6331030d2</webElementGuid>
+      <webElementGuid>e946f322-256c-4e6d-8480-9bc15d84c7a1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='for all selected group members for additional filtering and constraints.'])[1]/preceding::span[2]</value>
-      <webElementGuid>78c48aaf-9e4d-4ac9-aebb-2349e92c7023</webElementGuid>
+      <webElementGuid>78a14237-a7e7-4a72-8ee2-08f7f764d805</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button/span/span</value>
-      <webElementGuid>24d83bf5-6ba9-4b20-aba5-ea6fcd6eeccf</webElementGuid>
+      <webElementGuid>9aed32c1-956f-412c-96f7-137226a757d7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = '  Add Group ' or . = '  Add Group ')]</value>
-      <webElementGuid>b1083121-d298-426b-a120-52ca9ada1472</webElementGuid>
+      <webElementGuid>4ce948ee-b7c9-4e60-9ef0-cf77dbe8aa56</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

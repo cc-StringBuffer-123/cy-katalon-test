@@ -6,12 +6,12 @@
    <elementGuidId>d272c01f-873b-4e63-b298-81522dd3b786</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>div.el-sub-menu__title</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//div[@id='my-element']/div/div[2]/div/div/div/ul/li[2]/div</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-sub-menu__title</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>d8e013f0-c2b8-4292-9243-c123e1594d0b</webElementGuid>
+      <webElementGuid>bdc1db75-7ed9-43e5-b05e-304066fa5c26</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-sub-menu__title</value>
-      <webElementGuid>c5cbb169-a318-4b41-a9c3-b7ff9db21cd0</webElementGuid>
+      <webElementGuid>c3c6517a-77fd-4e3d-8abd-7b0bbef2b63c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Team</value>
-      <webElementGuid>7076a153-9adc-4fd9-a937-3c652b037507</webElementGuid>
+      <webElementGuid>ee2e826f-a20b-47e9-b8dd-0187318657f4</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;my-element&quot;)/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/ul[@class=&quot;el-menu el-menu--vertical ztn-menu&quot;]/li[@class=&quot;el-sub-menu&quot;]/div[@class=&quot;el-sub-menu__title&quot;]</value>
-      <webElementGuid>cf71f5ea-d745-4bcb-a3a1-7bcd9a49c468</webElementGuid>
+      <webElementGuid>bd98bb67-1815-4dd8-89bb-7cbf1f62917d</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='my-element']/div/div[2]/div/div/div/ul/li[2]/div</value>
-      <webElementGuid>0a6b64b1-006b-418e-addd-9f73795bbb39</webElementGuid>
+      <webElementGuid>a677809a-3fa5-4bbc-877e-537282201da1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Dashboards'])[1]/following::div[1]</value>
-      <webElementGuid>44c193a3-f576-4548-b071-e8b6653a228c</webElementGuid>
+      <webElementGuid>75f4b0d3-e22f-43e3-aecf-ef93ea8d3d3b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='MENU'])[1]/following::div[2]</value>
-      <webElementGuid>7a93bff6-8fc9-4e87-8f7d-9752fff92d7a</webElementGuid>
+      <webElementGuid>68cc4e9d-a4e1-42d5-98d3-b79f6b59670c</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Users'])[1]/preceding::div[1]</value>
-      <webElementGuid>9d292ed2-955a-4428-950a-219e3878d3ab</webElementGuid>
+      <webElementGuid>9b900342-3e4c-4214-afdc-15f259e532cc</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[2]/div</value>
-      <webElementGuid>8d964d8a-194a-43a6-bb5c-b552934c3bc7</webElementGuid>
+      <webElementGuid>647250c6-3f69-44ae-bc7b-b51f3ccf2561</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,6 +101,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'Team' or . = 'Team')]</value>
-      <webElementGuid>37cb67af-0b55-420a-8918-b839248d7cf6</webElementGuid>
+      <webElementGuid>99258d0b-99dc-4888-8420-b7ea23c232ff</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

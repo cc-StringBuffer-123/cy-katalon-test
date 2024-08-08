@@ -6,12 +6,12 @@
    <elementGuidId>6863dfc4-699e-4ce4-adbb-bce12c8c1d47</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value>span.ztn-page-t400.text</value>
-      </entry>
-      <entry>
          <key>XPATH</key>
          <value>//button[@id='add-policy']/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.ztn-page-t400.text</value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>34ca2f8a-20f3-44c3-8d05-81f5a90b8247</webElementGuid>
+      <webElementGuid>7df6ef0a-a12b-4233-a67d-d002a66fc47a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ztn-page-t400 text</value>
-      <webElementGuid>0344a989-1859-4b68-a53e-262e3f62b0f2</webElementGuid>
+      <webElementGuid>8c2f00dc-1059-4887-98ee-776e71d5eb2a</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Add Policy </value>
-      <webElementGuid>190d57fb-0b4e-4d0d-aac5-f8c57a478140</webElementGuid>
+      <webElementGuid>bfc24e67-614d-4b9f-b172-d0e04020e1c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;add-policy&quot;)/span[@class=&quot;ztn-page-t400 text&quot;]</value>
-      <webElementGuid>cb4599d8-135a-4372-8150-1bbae71829ac</webElementGuid>
+      <webElementGuid>f6d11d29-ed38-4405-87d4-f4763ecc31c0</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//button[@id='add-policy']/span</value>
-      <webElementGuid>dd031b15-25d9-4737-93dd-c5cc48a6b280</webElementGuid>
+      <webElementGuid>b6a2f812-812f-4936-b639-8e959be35265</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Add Policy']/parent::*</value>
-      <webElementGuid>a38afdc3-c953-427c-856c-910362817404</webElementGuid>
+      <webElementGuid>975bc9b4-9cd4-4814-b9bb-ab07835628ce</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/button/span</value>
-      <webElementGuid>7614ad2c-6de9-4c30-80d0-bb1586b65f52</webElementGuid>
+      <webElementGuid>02cd81ec-0fc2-4bfe-b18a-d364d17913c8</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Add Policy ' or . = 'Add Policy ')]</value>
-      <webElementGuid>0a0b4e85-c559-43c7-9c70-ffeeee521c1c</webElementGuid>
+      <webElementGuid>639dc9e9-d926-4ea7-98c1-72e7eb2e7736</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,6 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div[3]/button/span</value>
-      <webElementGuid>305aee6b-b08d-4416-8f38-8e8a0f881487</webElementGuid>
+      <webElementGuid>11f7299d-6fc3-471c-bc0a-912588dc62e9</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

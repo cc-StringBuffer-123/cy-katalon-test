@@ -6,12 +6,12 @@
    <elementGuidId>a2c166fd-ddc2-478c-ba18-8d94a554a8e5</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
+         <key>XPATH</key>
+         <value>(//label[@id='radio']/span)[2]</value>
       </entry>
       <entry>
-         <key>XPATH</key>
-         <value>//div[@id='el-id-3161-64']/label[2]/span</value>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>2d5f5122-4cdf-42e5-956f-14f792ec252e</webElementGuid>
+      <webElementGuid>91e06515-a68b-46a1-8a4b-bede49e33fba</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>el-radio-button__inner</value>
-      <webElementGuid>4ab54584-1943-46f4-9c57-a665699fa2fe</webElementGuid>
+      <webElementGuid>bd6e2aef-a140-474f-aafd-9639a4847bc5</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,23 +45,23 @@
       <name>text</name>
       <type>Main</type>
       <value>Block </value>
-      <webElementGuid>1110b560-f3e0-4e33-8f9c-05eb0eb61d58</webElementGuid>
+      <webElementGuid>f5348a36-bedd-496e-8b26-a9ebadfde20b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;el-id-3161-64&quot;)/label[@class=&quot;el-radio-button el-radio-button--default ztn-radio&quot;]/span[@class=&quot;el-radio-button__inner&quot;]</value>
-      <webElementGuid>7725b0db-2f3f-408a-bbc5-317d0f592851</webElementGuid>
+      <value>id(&quot;el-id-6322-16&quot;)/label[@id=&quot;radio&quot;]/span[@class=&quot;el-radio-button__inner&quot;]</value>
+      <webElementGuid>436cf232-0340-4fca-ac8e-1888a5ec50ea</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
-      <value>//div[@id='el-id-3161-64']/label[2]/span</value>
-      <webElementGuid>b394cfed-a819-43e3-a61d-1734d109a782</webElementGuid>
+      <value>(//label[@id='radio']/span)[2]</value>
+      <webElementGuid>a318d77d-ec9a-420d-9dd1-72d5d68e0d23</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Sequence Number:'])[1]/preceding::span[3]</value>
-      <webElementGuid>261b3934-8cde-47c5-bb6a-fb00c5817abc</webElementGuid>
+      <webElementGuid>9d7d8741-5d28-4fc7-a8a7-84bf92490089</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Block']/parent::*</value>
-      <webElementGuid>c0841cbe-2519-47ec-8a97-0b8a6acecde0</webElementGuid>
+      <webElementGuid>7b09187e-2cca-4e48-abbb-ef41e2550dd7</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//label[2]/span</value>
-      <webElementGuid>092e37f3-0323-4da3-b228-8c3624115432</webElementGuid>
+      <webElementGuid>7c3a321f-d2f5-4365-847f-9fd7bb65d168</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,6 +93,22 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Block ' or . = 'Block ')]</value>
-      <webElementGuid>e0e08489-28b1-414d-95b1-6712bca95639</webElementGuid>
+      <webElementGuid>a5fefb2e-07d4-4bf4-b936-81795243a23b</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-id-5128-16']/label[2]/span</value>
+      <webElementGuid>a6a451f8-320c-4eab-bab1-561eae36853a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-id-3161-64']/label[2]/span</value>
+      <webElementGuid>ec8ffe56-73f6-4442-96ce-bc8527bb0a61</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

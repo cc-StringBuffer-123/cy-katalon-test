@@ -6,16 +6,16 @@
    <elementGuidId>09314eef-0ba7-4a8f-b38e-8579bc08d656</elementGuidId>
    <selectorCollection>
       <entry>
-         <key>CSS</key>
-         <value></value>
-      </entry>
-      <entry>
          <key>BASIC</key>
          <value>//*[(text() = 'By these members: ' or . = 'By these members: ')]</value>
       </entry>
       <entry>
          <key>XPATH</key>
-         <value>//div[@id='layout-wrapper']/div[2]/div/form/div/div/div[6]/div/div/div[2]/div/div[3]/div[3]/label/span[2]/div</value>
+         <value>(//div[@id='checkBox_lab'])[3]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value></value>
       </entry>
    </selectorCollection>
    <selectorMethod>XPATH</selectorMethod>
@@ -33,7 +33,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>div</value>
-      <webElementGuid>85b6d2ad-ce61-432f-a214-e77936d3a536</webElementGuid>
+      <webElementGuid>03d6bf86-208c-4900-bad8-734f7d2d8788</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -41,7 +41,7 @@
       <name>class</name>
       <type>Main</type>
       <value>ztn-page-h300 check-font</value>
-      <webElementGuid>375782d1-a8b3-42be-ab7d-7315945c4aa9</webElementGuid>
+      <webElementGuid>04d6f85d-efcc-4f35-8279-bf81d61138cb</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -49,23 +49,39 @@
       <name>text</name>
       <type>Main</type>
       <value>By these members: </value>
-      <webElementGuid>716f3b94-60c5-4816-8c42-4864570ee583</webElementGuid>
+      <webElementGuid>df65bc61-a132-4197-bcd9-a78053bdf44c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath</name>
       <type>Main</type>
-      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row col-12&quot;]/div[@class=&quot;el-form-item is-no-asterisk asterisk-left el-form-item--feedback&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;ztn-page-t400 col-md-8 approval&quot;]/div[1]/div[3]/div[@class=&quot;mb-1&quot;]/label[@class=&quot;el-checkbox&quot;]/span[@class=&quot;el-checkbox__label&quot;]/div[@class=&quot;ztn-page-h300 check-font&quot;]</value>
-      <webElementGuid>17f887c7-126c-4fae-87fc-03b3dad3f902</webElementGuid>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row col-12&quot;]/div[@class=&quot;el-form-item is-no-asterisk asterisk-left el-form-item--feedback&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;ztn-page-t400 col-md-8 approval&quot;]/div[1]/div[3]/div[@class=&quot;mb-1&quot;]/label[@class=&quot;el-checkbox is-checked&quot;]/span[@class=&quot;el-checkbox__label&quot;]/div[@id=&quot;checkBox_lab&quot;]</value>
+      <webElementGuid>c8dc3e1d-a55e-4098-ad1d-1a4a5232e783</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkBox_lab</value>
+      <webElementGuid>a00a76d9-b021-4329-8805-f9eb5b084b3e</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//div[@id='checkBox_lab'])[3]</value>
+      <webElementGuid>dceec661-3437-4ef6-aebb-5522dbe8d075</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='layout-wrapper']/div[2]/div/form/div/div/div[6]/div/div/div[2]/div/div[3]/div[3]/label/span[2]/div</value>
-      <webElementGuid>b70dd996-9b22-4ca5-8a1f-cabe516622e7</webElementGuid>
+      <webElementGuid>aec7ace4-79e9-48b2-950a-2a3172811fc1</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -73,7 +89,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='By the matched group administrators in the following group list'])[1]/following::div[2]</value>
-      <webElementGuid>38fe43c4-d6f5-4299-b29d-195e8a1afec7</webElementGuid>
+      <webElementGuid>7c9135ca-41c1-4036-bdb9-e5c8aab1608d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -81,7 +97,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='By team administrator'])[1]/following::div[4]</value>
-      <webElementGuid>05787829-4afe-498b-83d1-18f29d61d035</webElementGuid>
+      <webElementGuid>86da542f-4c9a-4a5e-aa69-8e0e52f64a6a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -89,7 +105,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='By these members:']/parent::*</value>
-      <webElementGuid>2bcade1c-edb3-48a6-9f75-dbd976f61e3a</webElementGuid>
+      <webElementGuid>bf3c5303-728b-4607-819b-2a5083e018f0</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -97,7 +113,15 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//div[3]/label/span[2]/div</value>
-      <webElementGuid>50f787c1-abc0-4511-ad93-433e5857a478</webElementGuid>
+      <webElementGuid>8519600e-9ff5-4bc1-ad9a-bd889d5b4e44</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'checkBox_lab' and (text() = 'By these members: ' or . = 'By these members: ')]</value>
+      <webElementGuid>1603956c-37a3-4bb2-a34a-6900f4abe7cf</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -105,6 +129,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//div[(text() = 'By these members: ' or . = 'By these members: ')]</value>
-      <webElementGuid>393cac6d-e4c6-492c-80a4-a65e9e8356da</webElementGuid>
+      <webElementGuid>567816e2-0e98-4447-8ec4-2458b3c29465</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

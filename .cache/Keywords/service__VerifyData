@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "2BA7AB204855D954CA13706F9FDC90B2",
+  "keywordClasses": [
+    {
+      "name": "service.VerifyData",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": true
+}
