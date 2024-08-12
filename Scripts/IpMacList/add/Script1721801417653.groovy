@@ -40,7 +40,7 @@ WebUI.setEncryptedText(findTestObject('IpMacList/Page_StrongGate/input__password
 
 WebUI.sendKeys(findTestObject('IpMacList/Page_StrongGate/input__password'), Keys.chord(Keys.ENTER))
 
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Team'))
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Team'))
 
 WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/span_Network Access'))
 
