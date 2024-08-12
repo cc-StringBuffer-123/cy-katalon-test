@@ -21,7 +21,7 @@
          <value>internal:text=&quot;Network Access&quot;i</value>
       </entry>
    </smartLocatorCollection>
-   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <smartLocatorEnabled>true</smartLocatorEnabled>
    <useRalativeImagePath>true</useRalativeImagePath>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>span</value>
-      <webElementGuid>73c0c993-403f-4914-a6b1-9c3b4210e9ab</webElementGuid>
+      <webElementGuid>78c4750f-a73a-4ba4-9ad5-15af22b3ceab</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -37,7 +37,7 @@
       <name>class</name>
       <type>Main</type>
       <value>label</value>
-      <webElementGuid>8e2fb9fe-24d3-4281-9d9d-45b39b9a8f98</webElementGuid>
+      <webElementGuid>f5d9d912-4b05-4290-9518-c0c0351b0168</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -45,7 +45,7 @@
       <name>text</name>
       <type>Main</type>
       <value>Network Access</value>
-      <webElementGuid>ac2eb121-1f8c-490e-9b9a-4eafc27bffdc</webElementGuid>
+      <webElementGuid>99b11519-b5fa-4a06-bdfc-a70fd1c0ed3c</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -53,7 +53,7 @@
       <name>xpath</name>
       <type>Main</type>
       <value>id(&quot;my-element&quot;)/div[@class=&quot;simplebar-wrapper&quot;]/div[@class=&quot;simplebar-mask&quot;]/div[@class=&quot;simplebar-offset&quot;]/div[@class=&quot;simplebar-content-wrapper&quot;]/div[@class=&quot;simplebar-content&quot;]/ul[@class=&quot;el-menu el-menu--vertical ztn-menu&quot;]/li[@class=&quot;el-sub-menu&quot;]/div[@class=&quot;el-sub-menu__title&quot;]/span[@class=&quot;label&quot;]</value>
-      <webElementGuid>6c018ed8-77f8-4522-83e8-3d406f0684f5</webElementGuid>
+      <webElementGuid>4939a2cf-d7b8-4500-a458-bca4e2046339</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
@@ -61,7 +61,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//div[@id='my-element']/div/div[2]/div/div/div/ul/li[3]/div/span</value>
-      <webElementGuid>660ca747-6560-4e6d-bee4-723476197e40</webElementGuid>
+      <webElementGuid>c3ae2f3c-b154-4de8-a404-d1eb2a1cfe48</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -69,7 +69,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Applications'])[1]/following::span[1]</value>
-      <webElementGuid>3e5f3e35-b6e0-4c57-88bb-aa7553d1cfb2</webElementGuid>
+      <webElementGuid>586474ca-466b-4a6b-be3c-fd392ddaad4a</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='LoginID List'])[1]/following::span[1]</value>
-      <webElementGuid>bcc505f4-3f72-4294-b6ff-b6ba46f5b7a6</webElementGuid>
+      <webElementGuid>aa04bddc-3d2c-4373-bd48-8d33ae8d8492</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Locations'])[1]/preceding::span[1]</value>
-      <webElementGuid>9bc4c197-203d-4de9-ab7a-c50ddc3eb2e9</webElementGuid>
+      <webElementGuid>e2d8644b-aa75-4871-8501-ae6c0d65c92e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Policies'])[1]/preceding::span[1]</value>
-      <webElementGuid>60f0a98c-051c-48a7-9033-08ff6432ae7d</webElementGuid>
+      <webElementGuid>097f26b4-3449-404b-91de-9b01beb9dd59</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,7 +101,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='Network Access']/parent::*</value>
-      <webElementGuid>826d0a02-9824-4f45-a15c-d19da8a093a7</webElementGuid>
+      <webElementGuid>cc0b6e76-5224-4a5f-9fa4-403ec2595508</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -109,7 +109,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//li[3]/div/span</value>
-      <webElementGuid>9166b336-66f2-4c8c-8982-3ae2c1798649</webElementGuid>
+      <webElementGuid>ce694e3c-24ae-4a19-9711-370b75974042</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -117,6 +117,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//span[(text() = 'Network Access' or . = 'Network Access')]</value>
-      <webElementGuid>8017e44a-08d0-4c0e-9772-d68ad75aae94</webElementGuid>
+      <webElementGuid>a764861f-41fd-49b9-b243-03d56de06d19</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
