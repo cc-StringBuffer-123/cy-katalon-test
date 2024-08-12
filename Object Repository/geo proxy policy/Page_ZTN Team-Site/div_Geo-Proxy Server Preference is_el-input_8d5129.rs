@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Geo-Proxy Server Preference is_el-input_8d5129</name>
+   <tag></tag>
+   <elementGuidId>4cf0d43d-dc59-4c6c-90fd-5820af3234d0</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.el-input__wrapper.is-focus</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/form/div[4]/div/div/div[3]/div/div[2]/div[3]/div/div/div/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.select-trigger > .el-input > .el-input__wrapper >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>cdffb696-99d8-4919-8a0d-e455f1c9e625</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-input__wrapper is-focus</value>
+      <webElementGuid>1933f5f4-fd48-4729-9ee3-005d363a8c64</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tabindex</name>
+      <type>Main</type>
+      <value>-1</value>
+      <webElementGuid>0c30eafd-b3e0-4944-b011-eb7db908cce7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row mb-4&quot;]/div[@class=&quot;ztn-page-h500 col-md-10 action-details&quot;]/div[@class=&quot;ztn-page-h500 col-md-10 m-3 p-3 action-details-son&quot;]/div[@class=&quot;mb-3&quot;]/div[@class=&quot;el-select&quot;]/div[@class=&quot;select-trigger el-tooltip__trigger el-tooltip__trigger&quot;]/div[@class=&quot;el-input el-input--suffix&quot;]/div[@class=&quot;el-input__wrapper is-focus&quot;]</value>
+      <webElementGuid>1a259c4a-b110-4eeb-8896-045da31f1aa6</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/form/div[4]/div/div/div[3]/div/div[2]/div[3]/div/div/div/div/div</value>
+      <webElementGuid>210e3ad7-f01c-49ff-90bf-3abfe8ae7dc2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='E.g. From US West to US West'])[1]/following::div[6]</value>
+      <webElementGuid>caed538a-8714-46fa-97a6-04eb8c3e00ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Outside'])[1]/preceding::div[7]</value>
+      <webElementGuid>aa3b72e1-184e-4181-8931-61787f505a56</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[3]/div/div/div/div/div</value>
+      <webElementGuid>04917e9a-f363-4269-af75-bc85e6a0accd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_External Link_el-checkbox__inner_1</name>
+   <tag></tag>
+   <elementGuidId>05eae52c-e21e-484c-a00c-e0101b97c23f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.el-table_4_column_26.is-center.el-table-column--selection.table-enable-row.el-table__cell > div.cell > label.el-checkbox > span.el-checkbox__input > span.el-checkbox__inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resourceDialog']/div/div[3]/div/div/div/table/tbody/tr/td[5]/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;res-19ae31e 10.0.0.8 , 192.168.3.70-192.168.3.200 , www.baidu.com External Link&quot;i] >> label span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>26b7bd46-53da-4651-a1eb-7533e43633b7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-checkbox__inner</value>
+      <webElementGuid>3f92fd39-a992-47c0-97d0-b3c84fa5cdc2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resourceDialog&quot;)/div[@class=&quot;el-table__inner-wrapper&quot;]/div[@class=&quot;el-table__body-wrapper&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/div[@class=&quot;el-scrollbar__view&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_4_column_26 is-center el-table-column--selection table-enable-row el-table__cell&quot;]/div[@class=&quot;cell&quot;]/label[@class=&quot;el-checkbox&quot;]/span[@class=&quot;el-checkbox__input&quot;]/span[@class=&quot;el-checkbox__inner&quot;]</value>
+      <webElementGuid>b7344c7b-90d0-473e-a001-4179544a4273</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resourceDialog']/div/div[3]/div/div/div/table/tbody/tr/td[5]/div/label/span/span</value>
+      <webElementGuid>b200ee6e-db80-4c5e-82c7-0da5a4e91ea7</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[5]/div/label/span/span</value>
+      <webElementGuid>39368fa9-5710-46a5-a028-20961d0d3133</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

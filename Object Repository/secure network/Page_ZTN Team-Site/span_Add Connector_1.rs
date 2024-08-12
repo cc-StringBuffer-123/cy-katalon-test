@@ -1,0 +1,90 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Add Connector_1</name>
+   <tag></tag>
+   <elementGuidId>3ca2ab47-4845-4817-9374-7f6d92c6db06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#secure-connector-dialog > span > span.ztn-page-t150</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='secure-connector-dialog']/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Connector&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>441828a7-c2c0-48fd-8dd0-a176ed4e5fcd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-page-t150</value>
+      <webElementGuid>0652b2ea-e080-4ab2-be29-ce876c2043ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Add Connector </value>
+      <webElementGuid>08efc40f-a72f-4aee-9181-feb34e98c6ab</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;secure-connector-dialog&quot;)/span[1]/span[@class=&quot;ztn-page-t150&quot;]</value>
+      <webElementGuid>f1f91429-c9b2-4e25-a3f5-529cfc2b9bf2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='secure-connector-dialog']/span/span</value>
+      <webElementGuid>40ef72bf-ca16-4931-9483-1820e33f6f91</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Enforce direct connection with Connector only'])[1]/preceding::span[3]</value>
+      <webElementGuid>ed1ad698-e104-4dca-84d2-070abe818b47</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div[2]/div[2]/button/span/span</value>
+      <webElementGuid>8e78e86a-3d4c-4aa5-bd3d-87c7ec1ca062</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = '  Add Connector ' or . = '  Add Connector ')]</value>
+      <webElementGuid>1a632263-4c54-4dc4-b36e-7ce6507f1b5d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

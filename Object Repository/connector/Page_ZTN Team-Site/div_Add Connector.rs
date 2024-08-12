@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Add Connector</name>
+   <tag></tag>
+   <elementGuidId>1233ae7b-5a7e-4faf-8bef-9cb91dbec806</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.ztn-page-t400.text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//button[@id='connector-save-button']</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>id(&quot;connector-save-button&quot;)[count(. | //*[(text() = 'Add Connector ' or . = 'Add Connector ')]) = count(//*[(text() = 'Add Connector ' or . = 'Add Connector ')])]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=button[name=&quot;Add Connector&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>5290e017-9ddb-492b-b3e4-d33589536f23</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-page-t400 text</value>
+      <webElementGuid>8344685b-1a0e-4e71-85fb-a002cc2106ae</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Add Connector </value>
+      <webElementGuid>33a08aa8-73ce-41f8-9ce0-5cbef07cb947</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;connector-save-button&quot;)</value>
+      <webElementGuid>c7f4e370-bbb7-4cf4-8143-541a4a848d1f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//button[@id='connector-save-button']/span</value>
+      <webElementGuid>9f7a3b83-ffee-4fba-898e-ac5e6dcbb65f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='/'])[2]/following::span[1]</value>
+      <webElementGuid>b9edb053-5784-4cac-beb9-999ba99f07a8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='connector-save-button']/parent::*</value>
+      <webElementGuid>63421732-8546-41f4-a4e0-1f6535a81a63</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/button/span</value>
+      <webElementGuid>22a1417b-87dd-4725-8ee4-a5adad383898</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'Add Connector ' or . = 'Add Connector ')]</value>
+      <webElementGuid>e6a9ed85-2a81-44cc-ad4b-7a394f968e0d</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

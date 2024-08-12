@@ -1,50 +1,19 @@
 import static com.kms.katalon.core.testobject.ObjectRepository.findTestObject
 
+import org.openqa.selenium.By
+import org.openqa.selenium.WebElement
+
 import com.kms.katalon.core.webui.keyword.WebUiBuiltInKeywords as WebUI
 
+import model.InitialTeamInfo
 import model.TeamInfo
+import model.WebData
 import service.VerifyData
 import service.VerifyDeviceReqPolicy
 
-
-WebUI.openBrowser('')
-
-WebUI.navigateToUrl('https://127.0.0.1:18080/')
-
 String uniquValue = UUID.randomUUID().toString().replace('-', '').substring(0, 6)
 
-WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/a_StrongGate'))
-
-WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/button_StrongGate'))
-
-WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/a_'))
-
-WebUI.setText(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/input__name'), 'test' + uniquValue)
-
-WebUI.setText(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/input_ID_email'), uniquValue + '@test.com')
-
-WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/button_'))
-
-WebUI.setText(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/input__passcode'), '123456')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/input__password'), 'EedPXzAtoLmlvts/d2a2YQ==')
-
-WebUI.setEncryptedText(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/input__confirmPassword'), 'EedPXzAtoLmlvts/d2a2YQ==')
-
-WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/button__1'))
-
-WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/button__1_2'))
-
-WebUI.setText(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/input__teamName'), 'teamname' + uniquValue)
-
-WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/input__teamName'))
-
-WebUI.selectOptionByValue(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/select_20                     20-200       _e10512'), 
-    '3', true)
-
-WebUI.setText(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/input__t'), 'teamdomain' + uniquValue)
-
-WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_StrongGate/button__1_2_3'))
+InitialTeamInfo.createTeam(uniquValue)
 
 WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_ZTN Team-Site/div_Team'))
 
@@ -53,36 +22,6 @@ TeamInfo info = VerifyData.getTeamInfo('teamdomain' + uniquValue)
 WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_ZTN Team-Site/div_Device Req Policy'))
 
 VerifyDeviceReqPolicy.verifyList(info.getTeamUID())
-
-String script = """
-    var table = document.querySelector('.el-table');
-    
-    var rows = table.querySelectorAll('tr.el-table__row');
-
-    var tableData = [];
-
-    rows.forEach(function(row) {
-        var rowData = {}
-
-        var cells = row.querySelectorAll('td');
-
-        rowData.seq = cells[0].innerText.trim();
-        rowData.policyName = cells[1].innerText.trim();
-		rowData.groups = cells[2].innerText.trim();
-		rowData.ruleset = cells[3].innerText.trim();
-		rowData.action = cells[4].innerText.trim();
-		rowData.approval = cells[5].innerText.trim();
-		rowData.enabled = cells[6].innerText.trim();
-
-        tableData.push(rowData);
-    });
-
-    return tableData;
-"""
-
-Object tableData = WebUI.executeJavaScript(script, null)
-
-println("Table Data: " + tableData)
 
 WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_ZTN Team-Site/span_Add Policy'))
 
@@ -158,5 +97,37 @@ WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_ZTN Team-Site
 WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_ZTN Team-Site/span_Edit Device Requirements Policy'))
 
 WebUI.click(findTestObject('Object Repository/deviceReqPolicy/Page_ZTN Team-Site/button_Confirm'))
+
+WebData wt = new WebData()
+
+List<WebElement> tableRows = wt.getHtmlTableRows(findTestObject('Object Repository/deviceReqPolicy/Page_ZTN Team-Site/table'))
+
+List<WebElement> tableData = []
+
+tableRows.each({ def row ->
+		List<WebElement> cells = row.findElements(By.tagName('td'))
+
+		if (cells.size() >= 7) {
+			Map<String, String> rowData = [:]
+
+			(rowData['seq']) = (cells[0]).getText()
+
+			(rowData['policyName']) = (cells[1]).getText()
+
+			(rowData['groups']) = (cells[2]).getText()
+
+			(rowData['ruleset']) = (cells[3]).getText()
+
+			(rowData['action']) = (cells[4]).getText()
+
+			(rowData['approval']) = (cells[5]).getText()
+
+			(rowData['enabled']) = (cells[6]).getText()
+
+			tableData.add(rowData)
+		}
+	})
+
+println tableData
 
 WebUI.setText(findTestObject('Object Repository/deviceReqPolicy/Page_ZTN Team-Site/input__search-policy'), 'pol-')

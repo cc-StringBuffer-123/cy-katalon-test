@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Save for audit</name>
+   <tag></tag>
+   <elementGuidId>923f2463-ba3c-4dc1-ad37-3ef501c2a536</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#checkBox_lab</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkBox_lab']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Save for audit&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>be2ba064-221d-461e-8f22-8f14eaac22bb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-page-h300 check-font</value>
+      <webElementGuid>f595af9b-0aaa-496b-9a9f-07f03bcb1890</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkBox_lab</value>
+      <webElementGuid>2d558748-dfa4-4c5e-b08b-47bda905596c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Save for audit </value>
+      <webElementGuid>a2d3a324-e581-43cc-b1a2-c30a205a8478</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;checkBox_lab&quot;)</value>
+      <webElementGuid>874bedf6-5aaa-4a2f-98b7-fd2979590f61</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='checkBox_lab']</value>
+      <webElementGuid>1d105f55-9895-42be-8616-a2463688c27a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/form/div/div/form/div/div[3]/label/span[2]/div</value>
+      <webElementGuid>217be887-362d-4369-bd26-79cdc07f5a17</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Save for audit']/parent::*</value>
+      <webElementGuid>b3d2b416-d5f5-4079-8cf9-aae584ce1ee8</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div</value>
+      <webElementGuid>b95d0099-f315-4e57-9cf7-b36d2fb7ef87</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'checkBox_lab' and (text() = 'Save for audit ' or . = 'Save for audit ')]</value>
+      <webElementGuid>6602b7fa-34ee-43ab-9777-8c3f7e2c387b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

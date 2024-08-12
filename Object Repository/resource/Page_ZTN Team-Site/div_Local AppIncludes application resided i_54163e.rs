@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Local AppIncludes application resided i_54163e</name>
+   <tag></tag>
+   <elementGuidId>cece3f29-a902-4cd1-96d9-c5a93515abfa</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resource-type-local']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#resource-type-local</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Local AppIncludes application resided in client machine and launchable in Resour&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f72bfb51-7238-4fa7-865f-92dd87368efd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-radio-btn-not-click ztn-resource-click mb-2 col-md-3</value>
+      <webElementGuid>2c8acf2e-21d8-49bb-9407-824c01a41731</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>resource-type-local</value>
+      <webElementGuid>e17ec172-ad56-48a4-91e8-31539d2fda3a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Local AppIncludes application resided in client machine and launchable in Resource Portal.</value>
+      <webElementGuid>3081050e-d373-41c7-a5d3-5e65ce4bf3d4</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resource-type-local&quot;)</value>
+      <webElementGuid>7b6b0467-f216-4492-b3a5-ce09de3d5bb2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='resource-type-local']</value>
+      <webElementGuid>02724856-affb-4ebb-a3fa-07acc19a5676</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/div/div[3]/div/div/div[3]</value>
+      <webElementGuid>1ddd183f-2f58-43bf-9938-5b51322a0996</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Saas'])[1]/following::div[2]</value>
+      <webElementGuid>846d444c-bd63-47e8-b259-81e5f1197131</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[3]</value>
+      <webElementGuid>9816527e-6fe4-426e-badd-5daa3e75591a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'resource-type-local' and (text() = 'Local AppIncludes application resided in client machine and launchable in Resource Portal.' or . = 'Local AppIncludes application resided in client machine and launchable in Resource Portal.')]</value>
+      <webElementGuid>0ee183fb-1a97-4cd5-9fc9-510b117bc5dd</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

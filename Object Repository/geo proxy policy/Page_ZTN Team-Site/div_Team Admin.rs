@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Team Admin</name>
+   <tag></tag>
+   <elementGuidId>15ca45aa-54df-4346-a1ba-5c13e23886bb</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div.mb-1</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='dialog-grp-table']/div/div[3]/div/div/div/table/tbody/tr/td/div/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Team Admin&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>226b79fc-be74-4042-b37a-0c290d694d3f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-1</value>
+      <webElementGuid>2c59bbec-349e-4442-a91a-b48cb794efcf</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Team Admin</value>
+      <webElementGuid>de7ad553-a770-4523-931c-1e3d8eada3fb</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;dialog-grp-table&quot;)/div[@class=&quot;el-table__inner-wrapper&quot;]/div[@class=&quot;el-table__body-wrapper&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/div[@class=&quot;el-scrollbar__view&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_8_column_59 table-enable-row el-table__cell&quot;]/div[@class=&quot;cell&quot;]/div[@class=&quot;mb-1&quot;]</value>
+      <webElementGuid>08d51ffc-e526-46bb-902f-c12357331606</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='dialog-grp-table']/div/div[3]/div/div/div/table/tbody/tr/td/div/div</value>
+      <webElementGuid>81657ec8-13e2-4b1b-9594-223a29602ea6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='testc68549'])[2]/preceding::div[2]</value>
+      <webElementGuid>65de5ffc-0895-469b-9c35-0b815fb3db10</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Team Admin']/parent::*</value>
+      <webElementGuid>e214cff9-f4ff-475c-98ba-867b13a36a11</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td/div/div</value>
+      <webElementGuid>8d6e3d0b-5131-42fa-9d24-1609e94edf05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = 'Team Admin' or . = 'Team Admin')]</value>
+      <webElementGuid>884fe8c3-1c67-4cd0-a911-de4d3fbd2ae4</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

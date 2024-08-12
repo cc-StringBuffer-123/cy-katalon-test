@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>td_External Link</name>
+   <tag></tag>
+   <elementGuidId>9ebd6b3b-ac03-4341-91a1-6f3d4dd7f387</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td.el-table_17_column_104.table-enable-row.el-table__cell</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resourceDialog']/div/div[3]/div/div/div/table/tbody/tr/td[4]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[(text() = 'External Link' or . = 'External Link')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=cell[name=&quot;External Link&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>td</value>
+      <webElementGuid>b12678ea-9c17-47c6-83d4-8a64d7f7fade</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-table_17_column_104 table-enable-row el-table__cell</value>
+      <webElementGuid>15269e92-8176-4edf-8fb1-fd28b4a85f35</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>rowspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>9e94e2fd-e3c1-4a53-a0c8-bee87844f100</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>colspan</name>
+      <type>Main</type>
+      <value>1</value>
+      <webElementGuid>fdd08ea0-65a3-4d0c-af6c-2d326887f03c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>External Link</value>
+      <webElementGuid>bd8f989e-1099-4b33-90d4-81a497d4babd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resourceDialog&quot;)/div[@class=&quot;el-table__inner-wrapper&quot;]/div[@class=&quot;el-table__body-wrapper&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/div[@class=&quot;el-scrollbar__view&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_17_column_104 table-enable-row el-table__cell&quot;]</value>
+      <webElementGuid>ed31d0cf-b1b8-41c8-97e3-3542674a104f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='resourceDialog']/div/div[3]/div/div/div/table/tbody/tr/td[4]</value>
+      <webElementGuid>3edef8cf-b5b2-44f4-9925-ed9f7a364a64</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='www.baidu.com'])[1]/following::td[2]</value>
+      <webElementGuid>105c7468-4ea4-4721-a0e3-58c7c26d20f1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)=','])[2]/following::td[2]</value>
+      <webElementGuid>8a348c3f-bf49-4991-9a93-57201a259a5e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[4]</value>
+      <webElementGuid>6731c89e-7f9e-485e-bb3a-4729d3cedfa5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//td[(text() = 'External Link' or . = 'External Link')]</value>
+      <webElementGuid>c206ff96-91c6-41a2-8b6e-cf1e20600d14</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

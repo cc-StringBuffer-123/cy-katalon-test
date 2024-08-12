@@ -1,0 +1,10 @@
+{
+  "keywordFileContentHash": "CA622999330005F176A8408C3D8F5366",
+  "keywordClasses": [
+    {
+      "name": "model.CreateResource",
+      "keywordMethods": []
+    }
+  ],
+  "javadocParsed": false
+}

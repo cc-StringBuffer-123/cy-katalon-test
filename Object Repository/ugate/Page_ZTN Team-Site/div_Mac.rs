@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Mac</name>
+   <tag></tag>
+   <elementGuidId>7b8c696d-bb86-4d1e-936d-7f74d79bc6e4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/form/div[2]/div/div/div/div[2]/div[5]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.ztn-page-t300 > div:nth-child(5)</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>fa88c1ae-2f7a-4d13-9372-48fa02f5b7d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>mb-3 radio-type col-md-1 text</value>
+      <webElementGuid>bbbf50f8-2b7c-46d6-9869-f2a68d0d49bd</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>  Mac</value>
+      <webElementGuid>df02cd72-f838-457f-b6a1-d411abdf8f71</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;ztn-page-t300 step-desc&quot;]/div[@class=&quot;mb-3 radio-type col-md-1 text&quot;]</value>
+      <webElementGuid>985cb357-6d25-4331-bad4-d64464f6854e</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/form/div[2]/div/div/div/div[2]/div[5]</value>
+      <webElementGuid>d895155b-162c-4116-bf7e-393608015114</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step1. Select the Software Environment:'])[1]/following::div[12]</value>
+      <webElementGuid>8444dc87-b571-4d56-b32d-033ed2fc7969</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Current Undeployed Token:'])[1]/following::div[17]</value>
+      <webElementGuid>ba799de3-5df4-445e-90a6-854fe3e84826</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step2. Customize'])[1]/preceding::div[6]</value>
+      <webElementGuid>e5f8824d-7997-49df-baf1-9c63c652235e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Selection Operation Mode and customize its behaviour:'])[1]/preceding::div[7]</value>
+      <webElementGuid>bd0e3918-b12b-4452-9ccd-2310e3c18990</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div/div/div[2]/div[5]</value>
+      <webElementGuid>5fd91018-d0b4-45ac-96bb-fdb4a2e1964d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '  Mac' or . = '  Mac')]</value>
+      <webElementGuid>5a5a401e-417c-4d67-96a4-bbaa111db6a5</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

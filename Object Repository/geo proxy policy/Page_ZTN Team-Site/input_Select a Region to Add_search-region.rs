@@ -1,0 +1,102 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>input_Select a Region to Add_search-region</name>
+   <tag></tag>
+   <elementGuidId>2aa0bdbb-f7cd-4cc3-b101-9ea388225a63</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#el-id-1011-568 > #search-region > div.search-box.me-2 > div.search-enable > #search-region</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>(//input[@id='search-region'])[2]</value>
+      </entry>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id = 'search-region' and @placeholder = 'Search...']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#el-id-1011-568 >> internal:attr=[placeholder=&quot;Search...&quot;i]</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>1fda683d-08a9-4143-8051-fd2e5ee11499</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>b26d7570-5019-4780-8474-24b8515b258b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>search-region</value>
+      <webElementGuid>ea7619a1-ee8c-4036-8637-9d5f6db9b83a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>placeholder</name>
+      <type>Main</type>
+      <value>Search...</value>
+      <webElementGuid>40cbd620-7f50-4aa6-bd74-bc00542e3660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-id-1011-568&quot;)/div[@id=&quot;search-region&quot;]/div[@class=&quot;search-box me-2&quot;]/div[@class=&quot;search-enable&quot;]/input[@id=&quot;search-region&quot;]</value>
+      <webElementGuid>a54946d3-172a-4147-a6a2-72cb839fc2b3</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>(//input[@id='search-region'])[2]</value>
+      <webElementGuid>8ee4c05d-24c0-4295-98ed-ccd664b240d6</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>(//div[@id='search-region']/div/div/input)[2]</value>
+      <webElementGuid>57db1e04-3482-476b-8c40-978e99341cb0</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div[2]/div[3]/div[2]/div/div/div/div/div/div/div/input</value>
+      <webElementGuid>453377e7-249a-4cd4-a918-c1c858592c05</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//input[@id = 'search-region' and @placeholder = 'Search...']</value>
+      <webElementGuid>ae43ea66-00f5-436a-acb6-b14a6e9780cf</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

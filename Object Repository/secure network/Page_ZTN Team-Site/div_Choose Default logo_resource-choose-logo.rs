@@ -1,0 +1,106 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Choose Default logo_resource-choose-logo</name>
+   <tag></tag>
+   <elementGuidId>45b8ebdb-ade4-49e2-be93-3c78e5955cb4</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#resource-choose-logo</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resource-choose-logo']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#resource-choose-logo >> nth=0</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>de3e0588-8c49-4906-86da-2c71fed419b6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>image-container</value>
+      <webElementGuid>3e9300b0-f4ae-4276-b505-36a428ba9757</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>resource-choose-logo</value>
+      <webElementGuid>a9f92a57-bf8c-4aaf-a438-e6e6e1f55261</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-id-6974-11&quot;)/div[@class=&quot;el-row&quot;]/div[@class=&quot;el-col el-col-3&quot;]/div[@class=&quot;grid-content&quot;]/div[@id=&quot;resource-choose-logo&quot;]</value>
+      <webElementGuid>5767d622-8669-449f-8ae2-17749484f5c4</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='resource-choose-logo']</value>
+      <webElementGuid>30549eea-3132-42f9-8114-0643046f0814</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-id-6974-11']/div/div/div/div</value>
+      <webElementGuid>9d62a3fb-bd85-4a1d-8fd5-3d3623917039</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Default logo'])[2]/following::div[5]</value>
+      <webElementGuid>9ac4cff3-577d-47d9-bbd6-767830500ee4</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Choose Default logo'])[1]/following::div[7]</value>
+      <webElementGuid>158d77b0-f8c5-4544-8745-94e14ff2b784</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[4]/div/div/div/div/div/div</value>
+      <webElementGuid>aae256f0-bbd2-48cb-a611-803a0bac0941</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'resource-choose-logo']</value>
+      <webElementGuid>98da53f6-7324-473d-b245-0c79784e0f27</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

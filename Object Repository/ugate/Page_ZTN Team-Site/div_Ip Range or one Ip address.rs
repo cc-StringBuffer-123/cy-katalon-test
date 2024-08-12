@@ -1,0 +1,138 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Ip Range or one Ip address</name>
+   <tag></tag>
+   <elementGuidId>b4dde262-b77b-40c8-a96d-39c5c6758e61</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#checkBox_lab</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkBox_lab']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Ip Range or one Ip address&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>250b8c09-ae3b-497e-9a91-973426d755ad</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-page-h300 check-font</value>
+      <webElementGuid>1f6ebf94-ecdb-46b5-a344-e7f9fe104454</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkBox_lab</value>
+      <webElementGuid>a0749cea-0cf5-4681-b38c-38d10acc98c2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Ip Range or one Ip address </value>
+      <webElementGuid>533aedb5-5450-431c-988d-4e0def05fe3c</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[2]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;mb-4&quot;]/div[@class=&quot;ztn-page-t300 step-desc&quot;]/div[@class=&quot;ztn-page-h200-strong step-desc&quot;]/div[@class=&quot;row mb-3&quot;]/div[@class=&quot;col-md-4&quot;]/label[@class=&quot;el-checkbox&quot;]/span[@class=&quot;el-checkbox__label&quot;]/div[@id=&quot;checkBox_lab&quot;]</value>
+      <webElementGuid>13b8bf4b-c395-4a3f-8834-5c5d224767fc</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='checkBox_lab']</value>
+      <webElementGuid>3a147904-ced3-4b6a-a833-459722e7bddb</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/form/div[2]/div/div/div[3]/div[2]/div[2]/div/div/label/span[2]/div</value>
+      <webElementGuid>0ea0bfb4-0867-4d31-ad6c-d9da89da8ea2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Step3. Program Start-up Constrains'])[1]/following::div[6]</value>
+      <webElementGuid>1f152de2-0d05-4cb2-8072-d76210f54169</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='geo proxy'])[1]/following::div[8]</value>
+      <webElementGuid>32f5cc9a-31c1-41df-b908-a68738ad84b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Input IP address or Ip address range that the Connector software must be running on.'])[1]/preceding::div[3]</value>
+      <webElementGuid>aadea445-5905-4f2d-ab2b-38128991816c</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Mac address'])[1]/preceding::div[5]</value>
+      <webElementGuid>6359ead1-2851-43e6-a69b-dd95126303ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Ip Range or one Ip address']/parent::*</value>
+      <webElementGuid>a96e672f-053e-43f3-87c9-b83cd88af88d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div</value>
+      <webElementGuid>9c459ddf-e9ca-4ebc-82aa-33d11741ba33</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'checkBox_lab' and (text() = 'Ip Range or one Ip address ' or . = 'Ip Range or one Ip address ')]</value>
+      <webElementGuid>0fc88f0e-8c42-4179-a26f-d56c640fd6b0</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

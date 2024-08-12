@@ -1,0 +1,82 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>img_Allow user change Geo Proxy_img</name>
+   <tag></tag>
+   <elementGuidId>3357f9ff-66bb-41e2-9dc3-e94578a35b75</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > div.el-switch.el-switch--large.ztn-page-h200 > span.el-switch__core > div.el-switch__action > img.img</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/form/div[4]/div/div/div[3]/div[10]/table/tr/td[2]/div/span/div[2]/img</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Allow user change Geo Proxy:&quot;i] >> img</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>6bc24648-bf5a-4ca1-bdb0-76ce4a457325</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>src</name>
+      <type>Main</type>
+      <value>assets/img/delete-with-circle.ed844896.svg</value>
+      <webElementGuid>fd443aaa-5695-4717-8bcd-e93afe89530e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>img</value>
+      <webElementGuid>4f5f8c05-154a-49dd-97cd-9a66e749281a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row card-body ztn-page-h400 step&quot;]/table[1]/tr[1]/td[2]/div[@class=&quot;el-switch el-switch--large ztn-page-h200&quot;]/span[@class=&quot;el-switch__core&quot;]/div[@class=&quot;el-switch__action&quot;]/img[@class=&quot;img&quot;]</value>
+      <webElementGuid>4b5abbc8-8755-49c9-bddc-596bb18b3204</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/form/div[4]/div/div/div[3]/div[10]/table/tr/td[2]/div/span/div[2]/img</value>
+      <webElementGuid>914d2452-c95a-4294-9b30-e90d78ee368d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[2]/div/span/div[2]/img</value>
+      <webElementGuid>068efc9f-f3f6-4442-886f-10a7ca44d3b5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//img[@src = 'assets/img/delete-with-circle.ed844896.svg']</value>
+      <webElementGuid>a1998d1d-c7b0-444a-b5fb-157066a9e6f3</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_SaasIntegrate third party online applic_b7c109</name>
+   <tag></tag>
+   <elementGuidId>6f6a898f-16b4-4712-b88e-dd92cd49c58b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resource-type-saas']</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>#resource-type-saas</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;SaasIntegrate third party online applications into Resource Portal using Single &quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>f3a5cd90-0b23-4826-a5f5-f4d374ff8bfc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-radio-btn-not-click ztn-resource-click mb-2 col-md-3</value>
+      <webElementGuid>4d8fb9e9-c23a-4a56-b3e0-8bc95e6074d2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>resource-type-saas</value>
+      <webElementGuid>3ad866e4-b4b3-416b-8363-92a9a5619a2f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>SaasIntegrate third party online applications into Resource Portal using  Single Sign-On (SSO).</value>
+      <webElementGuid>04930c34-a0b6-4dbc-aba6-ce5c0a1da601</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resource-type-saas&quot;)</value>
+      <webElementGuid>6f8fbe13-97ea-4e0a-8137-eb11bd59a544</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='resource-type-saas']</value>
+      <webElementGuid>a2c61553-f0ab-4ee0-802e-e6b860407ef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/div/div[3]/div/div/div[2]</value>
+      <webElementGuid>3df33af6-aa08-46bb-9647-867862e73d2a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resources you host in the cloud or in your own premises.'])[1]/following::div[1]</value>
+      <webElementGuid>eef00ae1-2d20-4680-9e51-1691e34ec767</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Private or Cloud'])[1]/following::div[2]</value>
+      <webElementGuid>c9bcb060-3f7e-419c-9746-c7e890f488b2</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[2]</value>
+      <webElementGuid>e3f40918-4350-4842-bac2-12de7b8a3824</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'resource-type-saas' and (text() = 'SaasIntegrate third party online applications into Resource Portal using  Single Sign-On (SSO).' or . = 'SaasIntegrate third party online applications into Resource Portal using  Single Sign-On (SSO).')]</value>
+      <webElementGuid>8d1013fe-646a-46ee-8fa0-73780aad2f5b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

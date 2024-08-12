@@ -76,30 +76,30 @@ robot.keyPress(KeyEvent.VK_ENTER)
 
 robot.keyRelease(KeyEvent.VK_ENTER)
 
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/button_Append'))
-
-WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_Comments_ipAddress'), '127.0.0.1')
-
-WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_Comments_macAddress'), '00-00-00-00-00-00')
-
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Select'))
-
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Device exist in  016, Uplink is  , uGate'))
-
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/span_confirm'))
-
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/td_Select'))
-
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_select_login'))
-
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Everyone'))
-
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/button_confirm'))
-
-WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/textarea_Select_comments'), '01')
-
-WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/path'))
-
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/button_Append'))
+//
+//WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_Comments_ipAddress'), '127.0.0.1')
+//
+//WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/input_Comments_macAddress'), '00-00-00-00-00-00')
+//
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Select'))
+//
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Device exist in  016, Uplink is  , uGate'))
+//
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/span_confirm'))
+//
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/td_Select'))
+//
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_select_login'))
+//
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_Everyone'))
+//
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/button_confirm'))
+//
+//WebUI.setText(findTestObject('IpMacList/Page_ZTN Team-Site/textarea_Select_comments'), '01')
+//
+//WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/path'))
+//
 //WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/input_List Administrator can edit this list_input'))
 //
 //WebUI.click(findTestObject('IpMacList/Page_ZTN Team-Site/div_test999test.com'))

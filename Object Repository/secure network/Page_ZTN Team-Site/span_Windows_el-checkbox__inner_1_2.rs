@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Windows_el-checkbox__inner_1_2</name>
+   <tag></tag>
+   <elementGuidId>02d81446-c728-4e5e-8a2b-61da77374283</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>span.el-checkbox__input.is-checked > span.el-checkbox__inner</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-id-6543-26']/div[2]/div/div[3]/div/div/div/table/tbody/tr/td[3]/div/label/span/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;con-001-updated Windows&quot;i] >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>bde7ec99-7640-4435-8b00-3304b8dd5ff5</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>el-checkbox__inner</value>
+      <webElementGuid>8fba082f-b7a8-4389-a887-e3558cee32d6</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-id-6543-26&quot;)/div[@class=&quot;el-table--fit el-table--fluid-height el-table--enable-row-hover el-table--enable-row-transition el-table el-table--layout-fixed ztn-common-table is-scrolling-none&quot;]/div[@class=&quot;el-table__inner-wrapper&quot;]/div[@class=&quot;el-table__body-wrapper&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/div[@class=&quot;el-scrollbar__view&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_10_column_58 is-center el-table-column--selection table-enable-row el-table__cell&quot;]/div[@class=&quot;cell&quot;]/label[@class=&quot;el-checkbox is-checked&quot;]/span[@class=&quot;el-checkbox__input is-checked&quot;]/span[@class=&quot;el-checkbox__inner&quot;]</value>
+      <webElementGuid>d8712c82-c556-43cc-8ce2-1145f913e9db</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-id-6543-26']/div[2]/div/div[3]/div/div/div/table/tbody/tr/td[3]/div/label/span/span</value>
+      <webElementGuid>f383c4b8-35a7-4e22-8a1d-fa8c37547c09</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//td[3]/div/label/span/span</value>
+      <webElementGuid>616f6bc6-8b5c-4373-81ec-f7e00a035c05</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

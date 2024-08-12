@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_con-001_cell</name>
+   <tag></tag>
+   <elementGuidId>2876dcd6-b70e-4c11-8fcc-ea6b13955f1b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value></value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='el-id-6543-75']/div[2]/div/div[3]/div/div/div/table/tbody/tr[2]/td[3]/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;con-001&quot;s] >> div >> nth=2</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>3530ff16-c7e3-4c56-ae5c-d73bfff619f2</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cell</value>
+      <webElementGuid>95a7e660-8677-4c5f-a7dd-97ed8dc6ae78</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;el-id-6543-75&quot;)/div[@class=&quot;el-table--fit el-table--fluid-height el-table--enable-row-hover el-table--enable-row-transition el-table el-table--layout-fixed ztn-common-table is-scrolling-none&quot;]/div[@class=&quot;el-table__inner-wrapper&quot;]/div[@class=&quot;el-table__body-wrapper&quot;]/div[@class=&quot;el-scrollbar&quot;]/div[@class=&quot;el-scrollbar__wrap el-scrollbar__wrap--hidden-default&quot;]/div[@class=&quot;el-scrollbar__view&quot;]/table[@class=&quot;el-table__body&quot;]/tbody[1]/tr[@class=&quot;el-table__row&quot;]/td[@class=&quot;el-table_22_column_132 is-center el-table-column--selection table-enable-row el-table__cell&quot;]/div[@class=&quot;cell&quot;]</value>
+      <webElementGuid>0bb43f13-ddd4-4e9f-b876-00f314c8c19a</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='el-id-6543-75']/div[2]/div/div[3]/div/div/div/table/tbody/tr[2]/td[3]/div</value>
+      <webElementGuid>677611a9-f949-42a1-8ba1-4d123d8944ce</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Items: 1-10'])[1]/preceding::div[6]</value>
+      <webElementGuid>17a14696-4b33-4e9d-b09a-08705ffcdf96</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[2]/td[3]/div</value>
+      <webElementGuid>b61bb7a0-cafd-43dc-b3b4-12b5850d64c1</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

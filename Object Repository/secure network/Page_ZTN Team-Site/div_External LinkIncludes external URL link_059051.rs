@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_External LinkIncludes external URL link_059051</name>
+   <tag></tag>
+   <elementGuidId>727d6945-bccc-44d8-ab05-f6cdaac0387f</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#resource-type-external</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='resource-type-external']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;External LinkIncludes external URL link and launchable in Resource Portal.&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>7c570515-15f5-4d75-b739-7c1f71450920</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-radio-btn-not-click ztn-resource-click mb-2 col-md-3</value>
+      <webElementGuid>9d482fe1-c2ec-48c3-849c-cf3b8f655660</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>resource-type-external</value>
+      <webElementGuid>6c16f37e-bc68-49e4-b336-0fd36292ce10</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>External LinkIncludes external URL link and launchable in Resource Portal.</value>
+      <webElementGuid>8a095a4e-99b9-4915-a258-b05824d3d15d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resource-type-external&quot;)</value>
+      <webElementGuid>cfabcada-e440-4487-ab09-b35c18c7677f</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='resource-type-external']</value>
+      <webElementGuid>58f6034c-cf8b-4cb8-97e2-4260305e8c88</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/div/div[3]/div/div/div[4]</value>
+      <webElementGuid>d3f7e502-0cf6-4744-b6d6-75e66e169d6f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Includes application resided in client machine and launchable in Resource Portal.'])[1]/following::div[1]</value>
+      <webElementGuid>92387ab9-3048-44c9-ab82-c3e835fa12b9</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Local App'])[1]/following::div[2]</value>
+      <webElementGuid>5a84c664-429c-4cab-a942-0a41e12fe98e</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[3]/div/div/div[4]</value>
+      <webElementGuid>e48f74b0-a1ef-4f00-a5d5-2bee5c99178f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'resource-type-external' and (text() = 'External LinkIncludes external URL link and launchable in Resource Portal.' or . = 'External LinkIncludes external URL link and launchable in Resource Portal.')]</value>
+      <webElementGuid>69e7ed6b-5371-4dd2-9153-f651f392dd63</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

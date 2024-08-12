@@ -7,7 +7,7 @@
    <selectorCollection>
       <entry>
          <key>XPATH</key>
-         <value>(//button[@type='button'])[24]</value>
+         <value>//button[@id='swal-confirm-button']</value>
       </entry>
       <entry>
          <key>CSS</key>
@@ -29,7 +29,7 @@
       <name>tag</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>b78d16d8-9a70-43e3-8f33-03900a35a353</webElementGuid>
+      <webElementGuid>b4273c8a-3632-4ba5-9fbd-c7b090b29c85</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -37,7 +37,7 @@
       <name>type</name>
       <type>Main</type>
       <value>button</value>
-      <webElementGuid>ff3c3dd2-e458-4075-9a2b-b8a4fe9c14ea</webElementGuid>
+      <webElementGuid>9e6ae7f3-e123-4580-a747-9e05c8fa949b</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -45,7 +45,7 @@
       <name>class</name>
       <type>Main</type>
       <value>swal2-confirm ztn-swal-confirmButton swal2-styled</value>
-      <webElementGuid>029ccd22-e4c7-4c15-bb4b-78dfa1e54f93</webElementGuid>
+      <webElementGuid>e7b6a98e-084c-4c55-a0b3-68d596015bd2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
@@ -53,7 +53,7 @@
       <name>text</name>
       <type>Main</type>
       <value>continue</value>
-      <webElementGuid>192ceaa7-5640-46b0-9548-1ba1fefed520</webElementGuid>
+      <webElementGuid>af137a9f-112f-4a69-84ee-efd7f436aa4e</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>false</isSelected>
@@ -61,15 +61,15 @@
       <name>xpath</name>
       <type>Main</type>
       <value>/html[@class=&quot;swal2-shown swal2-height-auto&quot;]/body[@class=&quot;light swal2-shown swal2-height-auto&quot;]/div[@class=&quot;swal2-container swal2-center swal2-backdrop-show&quot;]/div[@class=&quot;swal2-popup swal2-modal ztn-swal swal2-show&quot;]/div[@class=&quot;swal2-actions&quot;]/button[@class=&quot;swal2-confirm ztn-swal-confirmButton swal2-styled&quot;]</value>
-      <webElementGuid>f4fab6b2-3e7e-4b18-a063-919fa815d3ce</webElementGuid>
+      <webElementGuid>681236ce-52d1-4de0-831a-44bc8d7548dc</webElementGuid>
    </webElementProperties>
    <webElementXpaths>
       <isSelected>true</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:attributes</name>
       <type>Main</type>
-      <value>(//button[@type='button'])[24]</value>
-      <webElementGuid>b4386152-578a-4616-bde7-8d63836e2319</webElementGuid>
+      <value>//button[@id='swal-confirm-button']</value>
+      <webElementGuid>f4780b8a-2e20-4921-b9e7-2bd607a0a970</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -77,7 +77,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='No'])[1]/following::button[1]</value>
-      <webElementGuid>32cf858e-a617-4d53-9f1d-7f13b1be44d5</webElementGuid>
+      <webElementGuid>83218062-53a5-457d-9cfa-2f9c0d75908d</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -85,7 +85,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Location IP/MAC List SuccessFully'])[1]/following::button[3]</value>
-      <webElementGuid>9b190ee0-0b32-4b97-a27c-d643a34b7056</webElementGuid>
+      <webElementGuid>b70d1e9a-26e7-48fd-b0be-be6fd8e6cb54</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -93,7 +93,7 @@
       <name>xpath:neighbor</name>
       <type>Main</type>
       <value>//*/text()[normalize-space(.)='continue']/parent::*</value>
-      <webElementGuid>cba0bab6-b23e-43a8-ab20-833d1f2ffc63</webElementGuid>
+      <webElementGuid>71bb80ce-8f89-419b-a213-5b749c75f6e6</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -101,14 +101,14 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//button[3]</value>
-      <webElementGuid>768df203-2b3a-4f40-8644-2eb76d668590</webElementGuid>
+      <webElementGuid>c5380b74-c011-42b7-b0e4-e078dc012f6e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>xpath:customAttributes</name>
       <type>Main</type>
-      <value>//button[@type = 'button' and (text() = 'continue' or . = 'continue')]</value>
-      <webElementGuid>0831aeb9-18c4-4da9-a1b3-e28cc92d0796</webElementGuid>
+      <value>//button[@type = 'button' and @id = 'swal-confirm-button' and (text() = 'Continue' or . = 'Continue')]</value>
+      <webElementGuid>59adc976-cd72-4c79-840d-9b6db9a9d1ee</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>

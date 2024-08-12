@@ -1,0 +1,107 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div__1</name>
+   <tag></tag>
+   <elementGuidId>d73fbd69-bcbe-46c5-9cfb-7af64b789774</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>div:nth-of-type(5) > label > div.ztn-page-h300.label-left</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//form[@id='frmSignUp']/div[5]/label/div</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;团队规模： （仅供内部规划使用）&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>907df6fe-a3eb-4c33-81c4-1ad232c1336d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-page-h300 label-left</value>
+      <webElementGuid>bfd99e3e-15b5-47a1-a9a3-58450508316e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>
+                    团队规模：
+                    （仅供内部规划使用）
+                </value>
+      <webElementGuid>a94d3b21-bfb9-4a0c-8ecd-15dfa203fb21</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;frmSignUp&quot;)/div[5]/label[1]/div[@class=&quot;ztn-page-h300 label-left&quot;]</value>
+      <webElementGuid>ab59e5fa-8e8f-43e2-8211-8f66613ed522</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//form[@id='frmSignUp']/div[5]/label/div</value>
+      <webElementGuid>18ef532f-6aa7-40ff-8e8c-389034deb15f</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='（必填）'])[1]/following::div[3]</value>
+      <webElementGuid>60dad5cf-36d9-4e9c-ac76-d3b0b3556acf</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='团队名称：'])[1]/following::div[4]</value>
+      <webElementGuid>a8182450-14b7-48d9-8488-a28b35937f57</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[5]/label/div</value>
+      <webElementGuid>95f06909-e90d-49ee-b2bc-668a2eb82858</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[(text() = '
+                    团队规模：
+                    （仅供内部规划使用）
+                ' or . = '
+                    团队规模：
+                    （仅供内部规划使用）
+                ')]</value>
+      <webElementGuid>25b0be12-86a3-477f-8cb5-d2e4f173ca84</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

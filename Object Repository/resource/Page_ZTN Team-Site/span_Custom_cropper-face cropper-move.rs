@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_Custom_cropper-face cropper-move</name>
+   <tag></tag>
+   <elementGuidId>36288917-24c9-4f95-9f62-925f928bf68d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='drop']/div/div[3]/span[5]</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>span.cropper-face.cropper-move</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>.cropper-face</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>871e3177-aafd-4fbf-a326-5c30853a7e33</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>cropper-face cropper-move</value>
+      <webElementGuid>a880301e-ec28-4684-a6ca-6928dd9af979</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>data-cropper-action</name>
+      <type>Main</type>
+      <value>all</value>
+      <webElementGuid>20a070a7-45af-4572-983c-e7a306408054</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;drop&quot;)/div[@class=&quot;cropper-container cropper-bg&quot;]/div[@class=&quot;cropper-crop-box&quot;]/span[@class=&quot;cropper-face cropper-move&quot;]</value>
+      <webElementGuid>aca0ff7f-aad3-4357-a32b-b003c78f8451</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='drop']/div/div[3]/span[5]</value>
+      <webElementGuid>bb9fc2f2-3ad9-488d-a145-6f066b4fa777</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[5]</value>
+      <webElementGuid>3732b71d-79dc-4385-a0fe-5790b4439475</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

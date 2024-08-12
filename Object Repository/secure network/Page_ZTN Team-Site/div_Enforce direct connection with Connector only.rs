@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>div_Enforce direct connection with Connector only</name>
+   <tag></tag>
+   <elementGuidId>a4bdcb1a-daf2-42ab-830e-08b638593d59</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#checkBox_lab</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='checkBox_lab']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;Enforce direct connection with Connector only&quot;i</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>div</value>
+      <webElementGuid>837045ae-1ac0-447c-85ee-b6fa87add4ce</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ztn-page-h300 check-font</value>
+      <webElementGuid>402ae152-eb15-402f-b246-5242ef54a6c7</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>checkBox_lab</value>
+      <webElementGuid>dcdd9c36-13b8-4645-8e28-5b31d3f93509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>Enforce direct connection with Connector only </value>
+      <webElementGuid>42fba907-0d8e-4ac1-a2af-dd362eff5848</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;el-form-item asterisk-left&quot;]/div[@class=&quot;el-form-item__content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;route-path mb-2&quot;]/div[@class=&quot;table-responsive&quot;]/label[@class=&quot;el-checkbox&quot;]/span[@class=&quot;el-checkbox__label&quot;]/div[@id=&quot;checkBox_lab&quot;]</value>
+      <webElementGuid>e56eaa13-ed04-4e4a-b0b6-e318b8cca658</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:attributes</name>
+      <type>Main</type>
+      <value>//div[@id='checkBox_lab']</value>
+      <webElementGuid>c7d484a0-876d-42f5-bf7a-b5d84feb1257</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/div/form/div[5]/div/div[2]/div/div/div/div/label/span[2]/div</value>
+      <webElementGuid>aae09c80-5c71-4884-b12c-7a3761c54006</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='confirm'])[2]/following::div[9]</value>
+      <webElementGuid>d2f3dbca-fe21-49e8-8b4f-c489ec6421ee</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='(use relay if direct connection with Connector is not available)'])[1]/preceding::div[1]</value>
+      <webElementGuid>17f79ad6-e8e8-41dc-a208-324b35a363d1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Prefer direct connection with Connector only'])[1]/preceding::div[2]</value>
+      <webElementGuid>d652ff97-81f0-48fe-a90e-7be3fe5178cc</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>//*/text()[normalize-space(.)='Enforce direct connection with Connector only']/parent::*</value>
+      <webElementGuid>dfdee517-35b0-4f88-8fde-cf84f338e221</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//span[2]/div</value>
+      <webElementGuid>1d0810bc-a317-4562-87dc-f0cf0c15a632</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//div[@id = 'checkBox_lab' and (text() = 'Enforce direct connection with Connector only ' or . = 'Enforce direct connection with Connector only ')]</value>
+      <webElementGuid>f3493e65-d3f9-4c65-b4c4-770bf2ba60d9</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

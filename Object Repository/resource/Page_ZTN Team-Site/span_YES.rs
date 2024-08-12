@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_YES</name>
+   <tag></tag>
+   <elementGuidId>efad71e7-307d-4f2b-b5e6-77ff7a91f3ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div/div/span/div/span</value>
+      </entry>
+      <entry>
+         <key>CSS</key>
+         <value>div.col-md-7.mb-4 > div.el-switch.el-switch--large.is-checked.ztn-page-h200 > span.el-switch__core > div.el-switch__inner > span.is-text</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:text=&quot;YES&quot;i >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>0eaa0ff7-bcf5-4ef3-9830-265b27527509</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>is-text</value>
+      <webElementGuid>3b3a074c-4e88-41c4-a38e-930a04dfb1c8</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>6d038e92-0682-4384-a4ac-e66ea150908a</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YES</value>
+      <webElementGuid>7193d4ce-9094-478f-a44e-639b096ec401</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;row col-md-9&quot;]/div[@class=&quot;card-body mb-4&quot;]/div[@class=&quot;col-md-7 mb-4&quot;]/div[@class=&quot;el-switch el-switch--large is-checked ztn-page-h200&quot;]/span[@class=&quot;el-switch__core&quot;]/div[@class=&quot;el-switch__inner&quot;]/span[@class=&quot;is-text&quot;]</value>
+      <webElementGuid>2d0b5d22-d7fa-41fb-a7a2-9c1bc2f1657c</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/div/div/div[3]/div[2]/div[2]/div/div/span/div/span</value>
+      <webElementGuid>60f55fed-b3d3-444d-b15b-feb4e73f106a</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='The system only process Enabled Resource.'])[1]/following::span[2]</value>
+      <webElementGuid>164061ec-daf4-475f-b8c1-65612cd22821</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='This option is active only when Specification contains only one http link.'])[1]/preceding::span[1]</value>
+      <webElementGuid>36b37473-f0da-4b7a-92e3-324cccf1fd60</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Resource logo'])[1]/preceding::span[1]</value>
+      <webElementGuid>80344fcc-3039-4f65-b951-b94168392320</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//div[2]/div/div/span/div/span</value>
+      <webElementGuid>5305840d-7310-4a9e-b6fd-04a10c6cdee3</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'YES' or . = 'YES')]</value>
+      <webElementGuid>b2a1c290-ab33-4017-8c29-f343cf0ffe79</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>

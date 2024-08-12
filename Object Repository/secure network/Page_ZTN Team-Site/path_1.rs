@@ -1,0 +1,58 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>path_1</name>
+   <tag></tag>
+   <elementGuidId>a6fc29cf-5212-42d8-bbe0-1ae0c2ca9c67</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>#resource-del > path</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value></value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>#resource-del path</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>path</value>
+      <webElementGuid>80805063-9feb-4e11-b6e3-b02e860a39a0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>d</name>
+      <type>Main</type>
+      <value>M18.5 7.20857L17.2914 6L12.5 10.7914L7.70857 6L6.5 7.20857L11.2914 12L6.5 16.7914L7.70857 18L12.5 13.2086L17.2914 18L18.5 16.7914L13.7086 12L18.5 7.20857Z</value>
+      <webElementGuid>9e350669-fc4e-4c62-97ce-c458761356ec</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>fill</name>
+      <type>Main</type>
+      <value>var(--body-color-1)</value>
+      <webElementGuid>be0e6843-4b72-42ae-b12e-19b9a26f301e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;resource-del&quot;)/path[1]</value>
+      <webElementGuid>2b28ef51-773f-432d-a2ee-bc11b2074b1e</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

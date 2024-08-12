@@ -1,0 +1,122 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>span_YES</name>
+   <tag></tag>
+   <elementGuidId>bdf1ec0e-d41e-4f05-b913-c780ede3bbfd</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>CSS</key>
+         <value>td:nth-of-type(2) > div.el-switch.el-switch--large.is-checked.ztn-page-h200 > span.el-switch__core > div.el-switch__inner > span.is-text</value>
+      </entry>
+      <entry>
+         <key>XPATH</key>
+         <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/form/div[4]/div/div/div[3]/div[6]/table/tr[3]/td[2]/div/span/div/span</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>XPATH</selectorMethod>
+   <smartLocatorCollection>
+      <entry>
+         <key>SMART_LOCATOR</key>
+         <value>internal:role=row[name=&quot;Allow user connect/disconnect: YES&quot;i] >> span >> nth=1</value>
+      </entry>
+   </smartLocatorCollection>
+   <smartLocatorEnabled>false</smartLocatorEnabled>
+   <useRalativeImagePath>true</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>span</value>
+      <webElementGuid>92a64339-2444-4036-bafe-19d52fcf68e9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>is-text</value>
+      <webElementGuid>3a32579f-2044-4e36-9100-d5a8b5ae33fc</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>aria-hidden</name>
+      <type>Main</type>
+      <value>false</value>
+      <webElementGuid>7cf0511a-d7a1-45f6-9087-bad5eb659540</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>text</name>
+      <type>Main</type>
+      <value>YES</value>
+      <webElementGuid>178568ca-8e4b-4ea9-96fc-fcb546c6bb8b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;layout-wrapper&quot;)/div[@class=&quot;main-content&quot;]/div[@class=&quot;page-content&quot;]/div[@class=&quot;row&quot;]/div[@class=&quot;col-12&quot;]/form[@class=&quot;el-form el-form--default el-form--label-top&quot;]/div[@class=&quot;card&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;col-md-6&quot;]/div[@class=&quot;card-body&quot;]/div[@class=&quot;row card-body ztn-page-h400 step&quot;]/table[1]/tr[3]/td[2]/div[@class=&quot;el-switch el-switch--large is-checked ztn-page-h200&quot;]/span[@class=&quot;el-switch__core&quot;]/div[@class=&quot;el-switch__inner&quot;]/span[@class=&quot;is-text&quot;]</value>
+      <webElementGuid>2e43027b-3647-4b97-8a8f-ae1c339e7ed2</webElementGuid>
+   </webElementProperties>
+   <webElementXpaths>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:idRelative</name>
+      <type>Main</type>
+      <value>//div[@id='layout-wrapper']/div[2]/div/div[2]/div/form/div[4]/div/div/div[3]/div[6]/table/tr[3]/td[2]/div/span/div/span</value>
+      <webElementGuid>ed4dd733-6925-4236-bd16-f89b9e7f6640</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Allow user connect/disconnect:'])[1]/following::span[2]</value>
+      <webElementGuid>45a7abda-39d6-4769-af01-393e465464c1</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Auto Connect to Geo Proxy:'])[1]/following::span[4]</value>
+      <webElementGuid>9b9d3433-7466-4812-a2a6-87f96723eef5</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Cancel'])[1]/preceding::span[1]</value>
+      <webElementGuid>f2858b9e-f8f9-4d79-bd4d-edd32a828345</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:neighbor</name>
+      <type>Main</type>
+      <value>(.//*[normalize-space(text()) and normalize-space(.)='Add Policy'])[1]/preceding::span[2]</value>
+      <webElementGuid>e1ea098b-5865-44db-89be-4f9093363e8d</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:position</name>
+      <type>Main</type>
+      <value>//tr[3]/td[2]/div/span/div/span</value>
+      <webElementGuid>adc86d1d-42ab-46cf-98b7-add50776d693</webElementGuid>
+   </webElementXpaths>
+   <webElementXpaths>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath:customAttributes</name>
+      <type>Main</type>
+      <value>//span[(text() = 'YES' or . = 'YES')]</value>
+      <webElementGuid>3933390b-c1c9-4cb7-8fd4-b35e82c85a4b</webElementGuid>
+   </webElementXpaths>
+</WebElementEntity>
